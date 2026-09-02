@@ -1,0 +1,4 @@
+﻿comparison,stratum,outcome,n,tp,tn,fp,fn,overall_agreement,positive_agreement,negative_agreement,cohen_kappa
+A_vs_B,random_10pct_independent,strict,1200,359,707,72,62,0.8883333333333333,0.8427230046948356,0.91343669250646,0.7561781840126883
+A_vs_B,random_10pct_independent,substantive,1200,122,1003,46,29,0.9375,0.7648902821316614,0.9639596347909659,0.7289679098005204
+A_vs_B,random_10pct_independent,severity_ge3,1200,5,1195,0,0,1.0,1.0,1.0,1.0

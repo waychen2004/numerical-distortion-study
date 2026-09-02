@@ -1,0 +1,11 @@
+﻿E_code,stratum,n,reviewer_A_positive,reviewer_B_positive,both_positive,both_negative,A_negative_B_positive,A_positive_B_negative,overall_agreement,positive_agreement,cohen_kappa,interpretation_boundary
+E01,random_10pct_independent,1200,2,2,2,1198,0,0,1.0,1.0,1.0,agreement of syntax-normalized reviewer-declared codes; not ontology validation
+E02,random_10pct_independent,1200,1,1,1,1199,0,0,1.0,1.0,1.0,agreement of syntax-normalized reviewer-declared codes; not ontology validation
+E03,random_10pct_independent,1200,28,26,17,1163,9,11,0.9833333333333333,0.6296296296296297,0.6211164435463495,agreement of syntax-normalized reviewer-declared codes; not ontology validation
+E04,random_10pct_independent,1200,7,8,7,1192,1,0,0.9991666666666666,0.9333333333333333,0.9329159212880128,agreement of syntax-normalized reviewer-declared codes; not ontology validation
+E05,random_10pct_independent,1200,140,150,116,1026,34,24,0.9516666666666667,0.8,0.7725490196078432,agreement of syntax-normalized reviewer-declared codes; not ontology validation
+E06,random_10pct_independent,1200,217,227,190,946,37,27,0.9466666666666667,0.8558558558558559,0.8231563822585325,agreement of syntax-normalized reviewer-declared codes; not ontology validation
+E07,random_10pct_independent,1200,11,9,8,1188,1,3,0.9966666666666667,0.8,0.7983362742626695,agreement of syntax-normalized reviewer-declared codes; not ontology validation
+E08,random_10pct_independent,1200,28,24,17,1165,7,11,0.985,0.6538461538461539,0.6462264150943402,agreement of syntax-normalized reviewer-declared codes; not ontology validation
+E09,random_10pct_independent,1200,8,3,3,1192,0,5,0.9958333333333333,0.5454545454545454,0.5437956204379575,agreement of syntax-normalized reviewer-declared codes; not ontology validation
+E10,random_10pct_independent,1200,54,50,30,1126,20,24,0.9633333333333334,0.5769230769230769,0.5577889447236191,agreement of syntax-normalized reviewer-declared codes; not ontology validation

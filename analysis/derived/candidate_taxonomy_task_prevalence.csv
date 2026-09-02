@@ -1,0 +1,61 @@
+﻿model,model_id,E_code,tasks_with_substantive_candidate,task_rate,primary_events_supplementary,substantive_events_supplementary
+GLM-5.2,aliyun/glm-5.2,E01,2,0.001,2,2
+GLM-5.2,aliyun/glm-5.2,E02,0,0.0,0,0
+GLM-5.2,aliyun/glm-5.2,E03,12,0.006,13,13
+GLM-5.2,aliyun/glm-5.2,E04,23,0.0115,24,24
+GLM-5.2,aliyun/glm-5.2,E05,59,0.0295,67,67
+GLM-5.2,aliyun/glm-5.2,E06,38,0.019,364,40
+GLM-5.2,aliyun/glm-5.2,E07,4,0.002,7,7
+GLM-5.2,aliyun/glm-5.2,E08,20,0.01,21,21
+GLM-5.2,aliyun/glm-5.2,E09,30,0.015,35,35
+GLM-5.2,aliyun/glm-5.2,E10,265,0.1325,309,309
+DeepSeek V4 Pro,aliyun/deepseek-v4-pro,E01,1,0.0005,1,1
+DeepSeek V4 Pro,aliyun/deepseek-v4-pro,E02,0,0.0,0,0
+DeepSeek V4 Pro,aliyun/deepseek-v4-pro,E03,66,0.033,142,141
+DeepSeek V4 Pro,aliyun/deepseek-v4-pro,E04,40,0.02,58,58
+DeepSeek V4 Pro,aliyun/deepseek-v4-pro,E05,257,0.1285,350,350
+DeepSeek V4 Pro,aliyun/deepseek-v4-pro,E06,120,0.06,780,130
+DeepSeek V4 Pro,aliyun/deepseek-v4-pro,E07,6,0.003,10,10
+DeepSeek V4 Pro,aliyun/deepseek-v4-pro,E08,34,0.017,36,36
+DeepSeek V4 Pro,aliyun/deepseek-v4-pro,E09,100,0.05,123,123
+DeepSeek V4 Pro,aliyun/deepseek-v4-pro,E10,270,0.135,319,319
+DeepSeek V4 Flash,aliyun/deepseek-v4-flash,E01,3,0.0015,3,3
+DeepSeek V4 Flash,aliyun/deepseek-v4-flash,E02,0,0.0,0,0
+DeepSeek V4 Flash,aliyun/deepseek-v4-flash,E03,105,0.0525,266,265
+DeepSeek V4 Flash,aliyun/deepseek-v4-flash,E04,49,0.0245,59,59
+DeepSeek V4 Flash,aliyun/deepseek-v4-flash,E05,405,0.2025,626,626
+DeepSeek V4 Flash,aliyun/deepseek-v4-flash,E06,112,0.056,600,116
+DeepSeek V4 Flash,aliyun/deepseek-v4-flash,E07,4,0.002,9,9
+DeepSeek V4 Flash,aliyun/deepseek-v4-flash,E08,30,0.015,31,31
+DeepSeek V4 Flash,aliyun/deepseek-v4-flash,E09,112,0.056,172,172
+DeepSeek V4 Flash,aliyun/deepseek-v4-flash,E10,275,0.1375,367,367
+Qwen 3.7 Max,aliyun/qwen3.7-max,E01,1,0.0005,1,1
+Qwen 3.7 Max,aliyun/qwen3.7-max,E02,0,0.0,0,0
+Qwen 3.7 Max,aliyun/qwen3.7-max,E03,13,0.0065,15,14
+Qwen 3.7 Max,aliyun/qwen3.7-max,E04,31,0.0155,37,37
+Qwen 3.7 Max,aliyun/qwen3.7-max,E05,104,0.052,121,121
+Qwen 3.7 Max,aliyun/qwen3.7-max,E06,34,0.017,461,35
+Qwen 3.7 Max,aliyun/qwen3.7-max,E07,5,0.0025,12,12
+Qwen 3.7 Max,aliyun/qwen3.7-max,E08,14,0.007,14,14
+Qwen 3.7 Max,aliyun/qwen3.7-max,E09,29,0.0145,34,34
+Qwen 3.7 Max,aliyun/qwen3.7-max,E10,254,0.127,297,297
+Kimi K2.6,aliyun/kimi-k2.6,E01,1,0.0005,1,1
+Kimi K2.6,aliyun/kimi-k2.6,E02,0,0.0,0,0
+Kimi K2.6,aliyun/kimi-k2.6,E03,15,0.0075,18,18
+Kimi K2.6,aliyun/kimi-k2.6,E04,23,0.0115,26,26
+Kimi K2.6,aliyun/kimi-k2.6,E05,89,0.0445,99,99
+Kimi K2.6,aliyun/kimi-k2.6,E06,52,0.026,357,54
+Kimi K2.6,aliyun/kimi-k2.6,E07,2,0.001,2,2
+Kimi K2.6,aliyun/kimi-k2.6,E08,16,0.008,16,16
+Kimi K2.6,aliyun/kimi-k2.6,E09,44,0.022,45,45
+Kimi K2.6,aliyun/kimi-k2.6,E10,346,0.173,452,452
+Qwen 3.8 Max,aliyun/qwen3.8-max,E01,0,0.0,0,0
+Qwen 3.8 Max,aliyun/qwen3.8-max,E02,0,0.0,0,0
+Qwen 3.8 Max,aliyun/qwen3.8-max,E03,7,0.0035,8,8
+Qwen 3.8 Max,aliyun/qwen3.8-max,E04,4,0.002,4,4
+Qwen 3.8 Max,aliyun/qwen3.8-max,E05,36,0.018,45,45
+Qwen 3.8 Max,aliyun/qwen3.8-max,E06,12,0.006,231,12
+Qwen 3.8 Max,aliyun/qwen3.8-max,E07,1,0.0005,1,1
+Qwen 3.8 Max,aliyun/qwen3.8-max,E08,4,0.002,5,5
+Qwen 3.8 Max,aliyun/qwen3.8-max,E09,1,0.0005,1,1
+Qwen 3.8 Max,aliyun/qwen3.8-max,E10,113,0.0565,122,122

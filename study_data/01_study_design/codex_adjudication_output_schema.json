@@ -1,0 +1,130 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "reviews"
+  ],
+  "properties": {
+    "reviews": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "audit_id",
+          "pmid",
+          "verdict",
+          "events",
+          "note"
+        ],
+        "properties": {
+          "audit_id": {
+            "type": "string"
+          },
+          "pmid": {
+            "type": "string"
+          },
+          "verdict": {
+            "type": "string",
+            "enum": [
+              "no_error",
+              "strict_contract_error",
+              "unable"
+            ]
+          },
+          "events": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "direction",
+                "mechanism",
+                "severity",
+                "substantive",
+                "primary_scope",
+                "source_fact_failure",
+                "source_category",
+                "source_fact",
+                "output_fact",
+                "summary"
+              ],
+              "properties": {
+                "direction": {
+                  "type": "string",
+                  "enum": [
+                    "alteration",
+                    "omission",
+                    "fabrication",
+                    "binding"
+                  ]
+                },
+                "mechanism": {
+                  "type": "string",
+                  "enum": [
+                    "decimal_shift",
+                    "digit_transposition",
+                    "unit",
+                    "sign",
+                    "comparator",
+                    "range",
+                    "binding",
+                    "qualitative_to_numeric",
+                    "derived_numeric",
+                    "threshold_omission",
+                    "threshold_precision",
+                    "other"
+                  ]
+                },
+                "severity": {
+                  "type": "integer",
+                  "minimum": 0,
+                  "maximum": 4
+                },
+                "substantive": {
+                  "type": "boolean"
+                },
+                "primary_scope": {
+                  "type": "boolean"
+                },
+                "source_fact_failure": {
+                  "type": "boolean"
+                },
+                "source_category": {
+                  "type": [
+                    "string",
+                    "null"
+                  ],
+                  "enum": [
+                    "dose",
+                    "lab",
+                    "vital",
+                    "temporal",
+                    "percentage",
+                    "other",
+                    null
+                  ]
+                },
+                "source_fact": {
+                  "type": "string"
+                },
+                "output_fact": {
+                  "type": "string"
+                },
+                "summary": {
+                  "type": "string",
+                  "minLength": 8
+                }
+              }
+            }
+          },
+          "note": {
+            "type": "string",
+            "minLength": 4
+          }
+        }
+      }
+    }
+  }
+}

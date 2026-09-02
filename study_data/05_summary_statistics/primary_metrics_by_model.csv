@@ -1,0 +1,7 @@
+﻿model,documents,source_fact_groups,documents_with_primary_error,document_error_rate,primary_events,substantive_events,source_fact_failures,numerical_fidelity_rate,severity_ge_3_events
+aliyun/glm-5.2,2000,16715,587,0.2935,842,518,239,0.9857014657493269,7
+aliyun/deepseek-v4-pro,2000,16715,935,0.4675,1819,1168,776,0.9535746335626683,39
+aliyun/deepseek-v4-flash,2000,16715,1016,0.508,2133,1648,1299,0.9222853724199821,73
+aliyun/qwen3.7-max,2000,16715,658,0.329,992,565,321,0.9807956924917739,10
+aliyun/kimi-k2.6,2000,16715,657,0.3285,1016,713,371,0.9778043673347293,29
+aliyun/qwen3.8-max,2000,16715,293,0.1465,417,198,85,0.9949147472330242,8

@@ -1,0 +1,41 @@
+# Unified-denominator verification
+
+- Checks: 36; all PASS.
+- Canonical source fact groups: 16715.
+
+- PASS | run_G: 2,000 model outputs
+- PASS | run_G: 2,000 adjudication records
+- PASS | run_G: model output PMIDs unique
+- PASS | run_G: adjudication PMIDs unique
+- PASS | run_G: PMID coverage matches canonical ledger
+- PASS | run_G: no empty, failed, or truncated model output
+- PASS | run_H: 2,000 model outputs
+- PASS | run_H: 2,000 adjudication records
+- PASS | run_H: model output PMIDs unique
+- PASS | run_H: adjudication PMIDs unique
+- PASS | run_H: PMID coverage matches canonical ledger
+- PASS | run_H: no empty, failed, or truncated model output
+- PASS | run_I: 2,000 model outputs
+- PASS | run_I: 2,000 adjudication records
+- PASS | run_I: model output PMIDs unique
+- PASS | run_I: adjudication PMIDs unique
+- PASS | run_I: PMID coverage matches canonical ledger
+- PASS | run_I: no empty, failed, or truncated model output
+- PASS | run_J: 2,000 model outputs
+- PASS | run_J: 2,000 adjudication records
+- PASS | run_J: model output PMIDs unique
+- PASS | run_J: adjudication PMIDs unique
+- PASS | run_J: PMID coverage matches canonical ledger
+- PASS | run_J: no empty, failed, or truncated model output
+- PASS | run_K: 2,000 model outputs
+- PASS | run_K: 2,000 adjudication records
+- PASS | run_K: model output PMIDs unique
+- PASS | run_K: adjudication PMIDs unique
+- PASS | run_K: PMID coverage matches canonical ledger
+- PASS | run_K: no empty, failed, or truncated model output
+- PASS | run_L: 2,000 model outputs
+- PASS | run_L: 2,000 adjudication records
+- PASS | run_L: model output PMIDs unique
+- PASS | run_L: adjudication PMIDs unique
+- PASS | run_L: PMID coverage matches canonical ledger
+- PASS | run_L: no empty, failed, or truncated model output

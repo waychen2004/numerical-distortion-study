@@ -1,0 +1,59 @@
+{
+  "documents_per_model": 2000,
+  "runs": [
+    {
+      "blind_run": "G",
+      "documents": 2000,
+      "model_identity_excluded_from_payload": true,
+      "screening_candidates_excluded_from_payload": true,
+      "adjudicator": "Codex gpt-5.6-sol, single independent adjudicator",
+      "model": "GLM-5.2",
+      "created_at": "2026-08-17T16:59:25"
+    },
+    {
+      "blind_run": "H",
+      "documents": 2000,
+      "model_identity_excluded_from_payload": true,
+      "screening_candidates_excluded_from_payload": true,
+      "adjudicator": "Codex gpt-5.6-sol, single independent adjudicator",
+      "model": "DeepSeek V4 Pro",
+      "created_at": "2026-08-17T14:17:54"
+    },
+    {
+      "blind_run": "I",
+      "documents": 2000,
+      "model_identity_excluded_from_payload": true,
+      "screening_candidates_excluded_from_payload": true,
+      "adjudicator": "Codex gpt-5.6-sol, single independent adjudicator",
+      "model": "DeepSeek V4 Flash",
+      "created_at": "2026-08-17T15:08:15"
+    },
+    {
+      "blind_run": "J",
+      "documents": 2000,
+      "model_identity_excluded_from_payload": true,
+      "screening_candidates_excluded_from_payload": true,
+      "adjudicator": "Codex gpt-5.6-sol, single independent adjudicator",
+      "model": "Qwen 3.7 Max",
+      "created_at": "2026-08-17T15:44:58"
+    },
+    {
+      "blind_run": "K",
+      "documents": 2000,
+      "model_identity_excluded_from_payload": true,
+      "screening_candidates_excluded_from_payload": true,
+      "adjudicator": "Codex gpt-5.6-sol, single independent adjudicator",
+      "model": "Kimi K2.6",
+      "created_at": "2026-08-17T16:34:43"
+    },
+    {
+      "blind_run": "L",
+      "documents": 2000,
+      "model_identity_excluded_from_payload": true,
+      "screening_candidates_excluded_from_payload": true,
+      "adjudicator": "Codex gpt-5.6-sol, single independent adjudicator",
+      "model": "Qwen 3.8 Max",
+      "created_at": "2026-08-17T18:37:56"
+    }
+  ]
+}

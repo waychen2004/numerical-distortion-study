@@ -1,0 +1,65 @@
+{
+  "documents_per_model": 2000,
+  "models": {
+    "aliyun/glm-5.2": {
+      "blind_run": "G",
+      "display_name": "GLM-5.2",
+      "provider": "Alibaba Bailian OpenAI-compatible endpoint",
+      "model": "glm-5.2",
+      "documents": 2000,
+      "temperature": 0.1,
+      "max_tokens": 32768,
+      "completed_at": "2026-08-17T10:08:48"
+    },
+    "aliyun/deepseek-v4-pro": {
+      "blind_run": "H",
+      "display_name": "DeepSeek V4 Pro",
+      "provider": "Alibaba Bailian OpenAI-compatible endpoint",
+      "model": "aliyun/deepseek-v4-pro",
+      "documents": 2000,
+      "temperature": 0.1,
+      "max_tokens": 32768,
+      "completed_at": "2026-08-17T10:52:36"
+    },
+    "aliyun/deepseek-v4-flash": {
+      "blind_run": "I",
+      "display_name": "DeepSeek V4 Flash",
+      "provider": "Alibaba Bailian OpenAI-compatible endpoint",
+      "model": "aliyun/deepseek-v4-flash",
+      "documents": 2000,
+      "temperature": 0.1,
+      "max_tokens": 32768,
+      "completed_at": "2026-08-17T11:02:50"
+    },
+    "aliyun/qwen3.7-max": {
+      "blind_run": "J",
+      "display_name": "Qwen 3.7 Max",
+      "provider": "Alibaba Bailian OpenAI-compatible endpoint",
+      "model": "aliyun/qwen3.7-max",
+      "documents": 2000,
+      "temperature": 0.1,
+      "max_tokens": 32768,
+      "completed_at": "2026-08-17T11:35:30"
+    },
+    "aliyun/kimi-k2.6": {
+      "blind_run": "K",
+      "display_name": "Kimi K2.6",
+      "provider": "Alibaba Bailian OpenAI-compatible endpoint",
+      "model": "aliyun/kimi-k2.6",
+      "documents": 2000,
+      "temperature": 0.1,
+      "max_tokens": 32768,
+      "completed_at": "2026-08-17T11:42:45"
+    },
+    "aliyun/qwen3.8-max": {
+      "blind_run": "L",
+      "display_name": "Qwen 3.8 Max",
+      "provider": "Alibaba Bailian OpenAI-compatible endpoint",
+      "model": "aliyun/qwen3.8-max",
+      "documents": 2000,
+      "temperature": 0.1,
+      "max_tokens": 32768,
+      "completed_at": "2026-08-17T18:08:09"
+    }
+  }
+}

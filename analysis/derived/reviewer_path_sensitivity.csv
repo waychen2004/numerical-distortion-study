@@ -1,0 +1,13 @@
+﻿model,outcome,A_consensus_rate,B_consensus_rate,observed_reviewer_path_low,observed_reviewer_path_high,absolute_path_difference,interpretation
+GLM-5.2,strict,0.25610749999999993,0.2860025,0.25610749999999993,0.2860025,0.02989500000000006,observed reviewer-path sensitivity; not a corrected truth interval
+GLM-5.2,substantive,0.0463425,0.08122,0.0463425,0.08122,0.0348775,observed reviewer-path sensitivity; not a corrected truth interval
+DeepSeek V4 Pro,strict,0.50891,0.47945,0.47945,0.50891,0.029459999999999986,observed reviewer-path sensitivity; not a corrected truth interval
+DeepSeek V4 Pro,substantive,0.20731,0.22204,0.20731,0.22204,0.014729999999999993,observed reviewer-path sensitivity; not a corrected truth interval
+DeepSeek V4 Flash,strict,0.45922500000000005,0.5126025,0.45922500000000005,0.5126025,0.05337749999999991,observed reviewer-path sensitivity; not a corrected truth interval
+DeepSeek V4 Flash,substantive,0.2756825,0.299945,0.2756825,0.299945,0.02426250000000002,observed reviewer-path sensitivity; not a corrected truth interval
+Qwen 3.7 Max,strict,0.37065,0.345775,0.345775,0.37065,0.02487499999999998,observed reviewer-path sensitivity; not a corrected truth interval
+Qwen 3.7 Max,substantive,0.086575,0.07165,0.07165,0.086575,0.014924999999999994,observed reviewer-path sensitivity; not a corrected truth interval
+Kimi K2.6,strict,0.32502,0.31516000000000005,0.31516000000000005,0.32502,0.009859999999999924,observed reviewer-path sensitivity; not a corrected truth interval
+Kimi K2.6,substantive,0.14897,0.16376,0.14897,0.16376,0.014789999999999998,observed reviewer-path sensitivity; not a corrected truth interval
+Qwen 3.8 Max,strict,0.2062825,0.2361775,0.2062825,0.2361775,0.029895000000000005,observed reviewer-path sensitivity; not a corrected truth interval
+Qwen 3.8 Max,substantive,0.010964999999999999,0.02093,0.010964999999999999,0.02093,0.009965000000000002,observed reviewer-path sensitivity; not a corrected truth interval

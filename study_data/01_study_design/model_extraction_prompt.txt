@@ -1,0 +1,51 @@
+You are a medical text editor. Extract the facts from the following abstract into a structured JSON record with the schema below. Keep all facts.
+
+Schema:
+{
+  "study": {
+    "design": "study design, e.g. RCT / cohort / case-control",
+    "year": "year of the study or publication",
+    "sample_size": "number of participants",
+    "follow_up": "follow-up duration"
+  },
+  "population": {
+    "age": "mean or median age",
+    "age_criteria": "eligibility age criteria, e.g. >=18 years",
+    "sex": "sex distribution",
+    "weight": "body weight if reported",
+    "key_characteristics": "key clinical characteristics with their values"
+  },
+  "intervention": {
+    "name": "intervention name",
+    "dose": "dose with unit",
+    "frequency": "dosing frequency",
+    "duration": "treatment duration"
+  },
+  "outcomes": [
+    {
+      "measure": "outcome measure name",
+      "timepoint": "time point of measurement",
+      "effect": "effect size value",
+      "ci": "confidence interval"
+    }
+  ],
+  "safety": [
+    {
+      "event": "adverse event name",
+      "rate": "event rate"
+    }
+  ],
+  "other_facts": "any other facts with their numerical values that do not fit the fields above",
+  "summary": "one-sentence summary of the study"
+}
+
+Rules:
+- Fill every field with facts from the abstract
+- Keep all facts
+- Put any fact that does not fit the fixed fields into "other_facts"
+- If a field has no supporting fact in the abstract, use null
+
+Abstract:
+{text}
+
+Output ONLY the JSON, nothing else.

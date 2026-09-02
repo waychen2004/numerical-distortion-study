@@ -1,0 +1,2001 @@
+pmid,year,words,chars,mentions,groups,type,field
+22825811,2012,224,1550,3,3,Case report or case series,Infectious diseases
+41514454,2026,266,1849,5,5,Other or unspecified design,Respiratory medicine
+23991889,2013,265,1792,14,13,Other or unspecified design,Neurology and psychiatry
+41404504,2025,242,1708,10,10,Other or unspecified design,Endocrinology and metabolism
+18490328,2008,255,1735,3,3,Other or unspecified design,Oncology
+37739868,2024,299,1921,11,10,Other or unspecified design,Cardiovascular medicine
+16972068,2006,437,2838,22,21,Nonrandomized intervention or clinical trial,Oncology
+35191321,2022,270,1832,4,4,Other or unspecified design,Cardiovascular medicine
+30638984,2019,278,1836,7,7,Cohort study,Cardiovascular medicine
+42221673,2026,371,2768,3,3,Other or unspecified design,Neurology and psychiatry
+17601366,2007,263,1680,17,11,Cohort study,Other or general medicine
+28766723,2017,288,2243,14,13,Meta-analysis or systematic review,Respiratory medicine
+32201245,2020,471,3005,15,14,Meta-analysis or systematic review,Gastroenterology and hepatobiliary medicine
+20056225,2010,226,1645,9,9,Other or unspecified design,Cardiovascular medicine
+24860173,2014,279,1988,3,3,Other or unspecified design,Cardiovascular medicine
+28711629,2017,317,2183,11,11,Randomized controlled trial,Infectious diseases
+31198075,2019,266,1957,24,24,Other or unspecified design,Endocrinology and metabolism
+28412518,2017,337,2135,31,31,Randomized controlled trial,Surgery and orthopedics
+39038363,2025,336,2328,6,5,Other or unspecified design,Other or general medicine
+39659029,2024,234,1655,11,11,Other or unspecified design,Other or general medicine
+20002243,2009,261,1920,5,5,Case report or case series,Oncology
+16856824,2006,288,2013,10,10,Other or unspecified design,Cardiovascular medicine
+25381336,2014,270,1811,4,4,Cohort study,Cardiovascular medicine
+42126896,2026,248,1745,4,4,Case report or case series,Neurology and psychiatry
+17568167,2007,246,1693,11,11,Randomized controlled trial,Endocrinology and metabolism
+17118860,2006,282,1844,4,4,Cross-sectional study,Cardiovascular medicine
+20091203,2009,238,1647,4,4,Cross-sectional study,Endocrinology and metabolism
+35816461,2022,544,3363,13,13,Other or unspecified design,Cardiovascular medicine
+28438163,2017,457,2830,6,5,Case-control study,Cardiovascular medicine
+16432848,2006,296,1774,34,33,Other or unspecified design,Other or general medicine
+33257615,2020,269,1845,5,5,Other or unspecified design,Cardiovascular medicine
+33588199,2021,266,1814,24,24,Cross-sectional study,Cardiovascular medicine
+18413554,2008,282,1945,9,9,Randomized controlled trial,Cardiovascular medicine
+32971582,2020,247,1677,14,14,Other or unspecified design,Surgery and orthopedics
+26297882,2015,239,1685,5,5,Other or unspecified design,Endocrinology and metabolism
+23861950,2012,279,1881,7,7,Other or unspecified design,Cardiovascular medicine
+27194344,2016,299,1897,5,5,Other or unspecified design,Oncology
+41101118,2025,309,2038,3,3,Cohort study,Endocrinology and metabolism
+36503429,2022,307,2075,8,7,Randomized controlled trial,Oncology
+33027423,2020,211,1413,8,8,Other or unspecified design,Pediatrics and neonatology
+29614524,2018,253,1748,3,3,Meta-analysis or systematic review,Cardiovascular medicine
+34699125,2022,249,1701,3,3,Other or unspecified design,Pediatrics and neonatology
+18511439,2008,264,1795,9,9,Randomized controlled trial,Surgery and orthopedics
+35831174,2022,269,1828,11,11,Other or unspecified design,Cardiovascular medicine
+33132043,2020,187,1358,5,5,Other or unspecified design,Respiratory medicine
+25861242,2015,367,2300,3,3,Other or unspecified design,Cardiovascular medicine
+19084128,2008,201,1285,4,4,Other or unspecified design,Other or general medicine
+23788756,2013,238,1731,7,7,Other or unspecified design,Oncology
+27557630,2016,336,2281,5,5,Questionnaire or survey study,Gastroenterology and hepatobiliary medicine
+21161117,2011,333,2228,14,14,Other or unspecified design,Cardiovascular medicine
+42569357,2026,244,1636,7,6,Cohort study,Cardiovascular medicine
+17091767,2006,275,1828,7,7,Other or unspecified design,Obstetrics and gynecology
+35763518,2021,284,1942,4,4,Other or unspecified design,Cardiovascular medicine
+42090724,2026,311,2105,14,14,Cohort study,Infectious diseases
+23063304,2012,195,1297,28,18,Other or unspecified design,Endocrinology and metabolism
+39813066,2024,352,2234,12,12,Other or unspecified design,Cardiovascular medicine
+22575540,2013,266,1842,15,15,Other or unspecified design,Oncology
+39503485,2024,274,1853,8,8,Other or unspecified design,Pediatrics and neonatology
+21332566,2011,289,1896,5,5,Case report or case series,Other or general medicine
+38747743,2024,534,3731,13,13,Cohort study,Obstetrics and gynecology
+18334676,2008,196,1316,8,8,Other or unspecified design,Oncology
+16922681,2006,280,1815,8,8,Other or unspecified design,Neurology and psychiatry
+19309724,2009,276,1926,11,11,Randomized controlled trial,Oncology
+18971549,2008,240,1700,8,7,Other or unspecified design,Other or general medicine
+21070297,2010,305,2077,8,8,Randomized controlled trial,Oncology
+40377907,2025,214,1622,4,4,Other or unspecified design,Endocrinology and metabolism
+37058040,2023,304,2334,8,8,Case report or case series,Oncology
+26230313,2015,334,2312,9,9,Other or unspecified design,Surgery and orthopedics
+23265339,2013,304,2200,4,4,Cohort study,Cardiovascular medicine
+17109060,2007,407,2753,19,19,Other or unspecified design,Other or general medicine
+18405945,2008,272,1827,3,3,Other or unspecified design,Oncology
+31006009,2019,193,1432,3,3,Other or unspecified design,Respiratory medicine
+19328945,2009,229,1354,4,4,Other or unspecified design,Surgery and orthopedics
+20602740,2010,251,1842,6,6,Other or unspecified design,Other or general medicine
+20947241,2011,265,1764,5,5,Randomized controlled trial,Cardiovascular medicine
+28535124,2017,272,1789,8,8,Cohort study,Other or general medicine
+22388791,2012,208,1446,4,4,Other or unspecified design,Endocrinology and metabolism
+18766457,2008,311,2007,8,8,Cohort study,Other or general medicine
+33477093,2021,212,1420,5,5,Cross-sectional study,Other or general medicine
+27611701,2016,280,1860,5,5,Other or unspecified design,Cardiovascular medicine
+18727849,2008,226,1577,9,9,Other or unspecified design,Neurology and psychiatry
+29719160,2018,285,2077,3,3,Other or unspecified design,Oncology
+33912896,2021,179,1158,5,5,Other or unspecified design,Other or general medicine
+38172531,2024,218,1584,6,6,Other or unspecified design,Cardiovascular medicine
+30579821,2018,259,1858,8,8,Cohort study,Obstetrics and gynecology
+17085164,2006,290,2094,3,3,Cohort study,Cardiovascular medicine
+22365136,2012,272,1965,12,12,Cross-sectional study,Respiratory medicine
+33728347,2020,240,1671,4,4,Other or unspecified design,Endocrinology and metabolism
+29626232,2019,314,1952,8,7,Randomized controlled trial,Cardiovascular medicine
+42345987,2026,634,4324,37,36,Other or unspecified design,Neurology and psychiatry
+39834217,2025,253,1802,16,15,Other or unspecified design,Infectious diseases
+24425143,2014,228,1540,3,3,Other or unspecified design,Oncology
+18261563,2007,265,1805,10,10,Other or unspecified design,Surgery and orthopedics
+23375298,2012,280,1905,8,8,Cohort study,Endocrinology and metabolism
+17988369,2007,300,2223,8,8,Cohort study,Neurology and psychiatry
+41756303,2026,277,2187,4,4,Case report or case series,Neurology and psychiatry
+35944871,2022,328,2063,3,3,Randomized controlled trial,Other or general medicine
+31240879,2019,244,1543,8,8,Case-control study,Endocrinology and metabolism
+31300826,2020,267,1715,7,7,Cohort study,Pediatrics and neonatology
+38083570,2023,125,933,3,3,Other or unspecified design,Other or general medicine
+17010741,2006,281,2059,8,8,Cross-sectional study,Other or general medicine
+23163825,2013,254,1870,6,6,Randomized controlled trial,Cardiovascular medicine
+19115910,2008,244,1524,7,7,Other or unspecified design,Respiratory medicine
+41805288,2026,265,1779,13,13,Cohort study,Endocrinology and metabolism
+39894549,2025,278,1898,9,9,Other or unspecified design,Cardiovascular medicine
+42469991,2026,285,2089,7,7,Other or unspecified design,Endocrinology and metabolism
+26040625,2015,256,1898,5,5,Cohort study,Cardiovascular medicine
+28757153,2017,300,2209,4,4,Other or unspecified design,Cardiovascular medicine
+38768696,2024,275,2015,6,6,Case-control study,Neurology and psychiatry
+22659767,2012,324,2254,6,6,Other or unspecified design,Endocrinology and metabolism
+19656709,2010,250,1668,10,10,Cohort study,Oncology
+24200636,2014,245,1554,9,9,Questionnaire or survey study,Endocrinology and metabolism
+33388644,2020,208,1412,4,4,Other or unspecified design,Other or general medicine
+29175799,2017,178,1257,3,3,Other or unspecified design,Oncology
+34738962,2021,319,2077,5,5,Randomized controlled trial,Cardiovascular medicine
+21705493,2011,249,1618,11,11,Randomized controlled trial,Obstetrics and gynecology
+25450317,2014,275,1759,12,12,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+18160456,2007,261,1730,5,5,Other or unspecified design,Oncology
+24296447,2013,778,4877,19,19,Other or unspecified design,Cardiovascular medicine
+27722893,2016,182,1342,3,3,Other or unspecified design,Neurology and psychiatry
+22118037,2011,170,1182,13,13,Other or unspecified design,Other or general medicine
+29112662,2017,266,1971,10,9,Meta-analysis or systematic review,Gastroenterology and hepatobiliary medicine
+34543098,2021,263,1844,6,6,Randomized controlled trial,Respiratory medicine
+24122259,2014,297,1882,20,20,Other or unspecified design,Pediatrics and neonatology
+18782816,2008,257,1841,4,4,Other or unspecified design,Neurology and psychiatry
+42455491,2026,466,3225,25,25,Cohort study,Cardiovascular medicine
+39607902,2024,295,2035,8,8,Cross-sectional study,Endocrinology and metabolism
+28944609,2017,280,2109,6,6,Randomized controlled trial,Cardiovascular medicine
+21820190,2011,296,2086,8,7,Cohort study,Oncology
+28546546,2017,209,1484,7,7,Cohort study,Cardiovascular medicine
+41838713,2026,369,2848,3,3,Randomized controlled trial,Cardiovascular medicine
+32139298,2020,323,2236,29,29,Nonrandomized intervention or clinical trial,Oncology
+25237185,2014,285,1830,4,4,Other or unspecified design,Other or general medicine
+37478886,2023,500,3416,19,19,Randomized controlled trial,Cardiovascular medicine
+30232687,2018,258,1619,12,12,Other or unspecified design,Cardiovascular medicine
+25319771,2014,216,1456,7,6,Other or unspecified design,Respiratory medicine
+32641318,2020,256,1805,13,13,Cohort study,Cardiovascular medicine
+39638244,2024,279,1980,7,7,Meta-analysis or systematic review,Endocrinology and metabolism
+24908247,2014,144,989,4,4,Other or unspecified design,Endocrinology and metabolism
+37820787,2024,480,3359,18,15,Randomized controlled trial,Endocrinology and metabolism
+39147483,2024,291,2011,5,5,Other or unspecified design,Other or general medicine
+40471453,2025,322,2118,12,11,Randomized controlled trial,Endocrinology and metabolism
+17965101,2008,225,1623,18,18,Case-control study,Surgery and orthopedics
+18798805,2008,268,1807,3,3,Other or unspecified design,Other or general medicine
+24621028,2014,248,1734,8,8,Cross-sectional study,Cardiovascular medicine
+40908322,2025,235,1749,10,10,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+25924705,2015,200,1415,3,3,Other or unspecified design,Other or general medicine
+19365139,2009,308,1911,5,5,Other or unspecified design,Endocrinology and metabolism
+17684631,2007,189,1226,5,5,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+35616936,2022,424,2994,12,12,Cohort study,Cardiovascular medicine
+23305454,2013,215,1395,7,7,Cross-sectional study,Cardiovascular medicine
+33078248,2021,248,1649,4,3,Other or unspecified design,Neurology and psychiatry
+21669889,2011,214,1550,7,7,Cohort study,Other or general medicine
+37639815,2023,235,1434,16,16,Cohort study,Obstetrics and gynecology
+37086232,2023,298,2011,10,10,Cohort study,Cardiovascular medicine
+18379355,2008,307,2166,16,14,Other or unspecified design,Oncology
+25818161,2016,190,1241,7,7,Other or unspecified design,Other or general medicine
+21587097,2011,223,1526,3,3,Other or unspecified design,Endocrinology and metabolism
+33032371,2020,265,1738,7,7,Other or unspecified design,Cardiovascular medicine
+31367914,2019,283,1754,5,5,Randomized controlled trial,Pediatrics and neonatology
+16634751,2006,215,1472,5,5,Randomized controlled trial,Other or general medicine
+40900760,2025,371,2750,4,4,Nonrandomized intervention or clinical trial,Oncology
+30315437,2018,270,1907,7,7,Nonrandomized intervention or clinical trial,Oncology
+26026866,2015,316,2157,5,4,Other or unspecified design,Surgery and orthopedics
+24456363,2013,265,1708,9,7,Randomized controlled trial,Endocrinology and metabolism
+20625310,2010,237,1749,8,8,Other or unspecified design,Endocrinology and metabolism
+28144840,2017,340,2169,23,19,Other or unspecified design,Infectious diseases
+32484448,2020,286,2032,5,5,Other or unspecified design,Endocrinology and metabolism
+30119682,2018,367,2394,6,6,Other or unspecified design,Endocrinology and metabolism
+29334437,2017,239,1646,6,6,Randomized controlled trial,Other or general medicine
+21985949,2011,324,2128,16,16,Cohort study,Cardiovascular medicine
+31248307,2019,284,1885,7,7,Randomized controlled trial,Endocrinology and metabolism
+36095019,2022,362,2399,11,11,Other or unspecified design,Endocrinology and metabolism
+22771545,2012,258,1728,4,4,Other or unspecified design,Oncology
+28816232,2018,237,1643,3,3,Other or unspecified design,Endocrinology and metabolism
+26621039,2015,424,2981,8,8,Nonrandomized intervention or clinical trial,Oncology
+25194428,2015,222,1448,5,5,Randomized controlled trial,Endocrinology and metabolism
+31250419,2019,500,3349,12,12,Cohort study,Cardiovascular medicine
+18584478,2008,374,2177,6,6,Randomized controlled trial,Oncology
+26333513,2015,445,2979,17,16,Randomized controlled trial,Other or general medicine
+41920897,2026,235,1798,4,4,Randomized controlled trial,Cardiovascular medicine
+42253110,2026,426,3008,28,26,Nonrandomized intervention or clinical trial,Oncology
+16919749,2006,415,2765,11,11,Randomized controlled trial,Neurology and psychiatry
+16759989,2006,181,1247,4,4,Other or unspecified design,Neurology and psychiatry
+16795068,2006,304,1863,13,13,Other or unspecified design,Oncology
+16545644,2006,299,2110,7,7,Cohort study,Cardiovascular medicine
+16895622,2006,177,1354,5,5,Randomized controlled trial,Neurology and psychiatry
+17067329,2006,309,2042,8,8,Other or unspecified design,Cardiovascular medicine
+16754626,2006,263,1837,11,11,Other or unspecified design,Respiratory medicine
+17852414,2006,439,3010,11,10,Other or unspecified design,Endocrinology and metabolism
+16989706,2006,263,1756,13,13,Other or unspecified design,Other or general medicine
+16454990,2006,275,1836,8,8,Other or unspecified design,Cardiovascular medicine
+16861720,2006,250,1742,7,7,Other or unspecified design,Cardiovascular medicine
+16983957,2006,157,1058,3,3,Other or unspecified design,Other or general medicine
+16715418,2006,236,1484,3,3,Other or unspecified design,Cardiovascular medicine
+17050313,2006,223,1471,8,8,Other or unspecified design,Respiratory medicine
+18632017,2006,207,1427,3,3,Qualitative study,Endocrinology and metabolism
+16446056,2006,232,1601,4,4,Randomized controlled trial,Oncology
+17134849,2007,250,1836,4,4,Randomized controlled trial,Other or general medicine
+17488176,2007,255,1766,11,11,Other or unspecified design,Cardiovascular medicine
+17921610,2007,264,1809,14,14,Other or unspecified design,Other or general medicine
+17192727,2007,340,2233,7,7,Other or unspecified design,Endocrinology and metabolism
+17346793,2007,346,2177,10,10,Other or unspecified design,Other or general medicine
+17537166,2007,341,2283,6,6,Case-control study,Pediatrics and neonatology
+17554249,2007,250,1786,14,14,Randomized controlled trial,Pediatrics and neonatology
+17447177,2007,319,2320,8,8,Other or unspecified design,Neurology and psychiatry
+17344487,2007,313,2110,9,8,Randomized controlled trial,Endocrinology and metabolism
+17699944,2007,263,1803,3,3,Randomized controlled trial,Other or general medicine
+18184522,2007,399,2843,5,5,Other or unspecified design,Cardiovascular medicine
+18091416,2007,296,1891,5,5,Other or unspecified design,Cardiovascular medicine
+17555951,2007,217,1515,8,8,Other or unspecified design,Cardiovascular medicine
+17507704,2007,323,2032,8,8,Other or unspecified design,Endocrinology and metabolism
+17608242,2007,350,2428,12,12,Other or unspecified design,Endocrinology and metabolism
+17446034,2007,234,1528,4,4,Other or unspecified design,Cardiovascular medicine
+16896641,2007,205,1567,7,7,Other or unspecified design,Cardiovascular medicine
+18216764,2008,272,1826,4,4,Randomized controlled trial,Cardiovascular medicine
+18502269,2008,223,1371,10,10,Cross-sectional study,Endocrinology and metabolism
+19046724,2008,200,1347,3,3,Randomized controlled trial,Oncology
+18031819,2008,356,2392,12,12,Other or unspecified design,Surgery and orthopedics
+18295412,2008,337,2396,3,3,Randomized controlled trial,Cardiovascular medicine
+18753421,2008,224,1593,9,9,Other or unspecified design,Endocrinology and metabolism
+18067170,2008,241,1670,7,7,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+18821143,2008,276,1765,10,10,Other or unspecified design,Cardiovascular medicine
+18676352,2008,262,1925,3,3,Other or unspecified design,Other or general medicine
+19912513,2009,291,1733,5,5,Randomized controlled trial,Surgery and orthopedics
+19439456,2009,292,2037,6,6,Randomized controlled trial,Endocrinology and metabolism
+19812865,2009,285,1850,7,7,Randomized controlled trial,Neurology and psychiatry
+19357695,2009,307,1916,16,16,Other or unspecified design,Cardiovascular medicine
+19171610,2009,286,2057,8,8,Other or unspecified design,Endocrinology and metabolism
+19273678,2009,267,1883,11,11,Nonrandomized intervention or clinical trial,Gastroenterology and hepatobiliary medicine
+18991547,2009,265,1670,7,7,Other or unspecified design,Other or general medicine
+19442777,2009,233,1568,11,9,Other or unspecified design,Other or general medicine
+19738123,2009,322,2253,12,9,Other or unspecified design,Oncology
+19720910,2009,287,1962,12,12,Cohort study,Oncology
+19324301,2009,290,1855,10,10,Other or unspecified design,Cardiovascular medicine
+19686306,2009,217,1479,4,4,Other or unspecified design,Neurology and psychiatry
+19534034,2009,260,1681,6,6,Other or unspecified design,Cardiovascular medicine
+19130316,2009,302,2074,9,9,Cross-sectional study,Endocrinology and metabolism
+20236550,2009,315,2029,7,7,Randomized controlled trial,Oncology
+19033371,2009,295,1955,6,6,Other or unspecified design,Surgery and orthopedics
+21067014,2009,369,2436,9,9,Other or unspecified design,Oncology
+20469780,2009,144,915,6,6,Other or unspecified design,Endocrinology and metabolism
+19698051,2009,304,2190,20,20,Other or unspecified design,Oncology
+20063421,2010,275,1866,23,22,Other or unspecified design,Endocrinology and metabolism
+20072789,2010,134,931,3,3,Other or unspecified design,Pediatrics and neonatology
+20172704,2010,247,1912,16,14,Randomized controlled trial,Respiratory medicine
+20558849,2010,167,1070,4,4,Other or unspecified design,Neurology and psychiatry
+21073073,2010,182,1187,10,10,Cross-sectional study,Cardiovascular medicine
+20026784,2010,349,2384,13,13,Randomized controlled trial,Cardiovascular medicine
+21555939,2010,254,1744,5,5,Cohort study,Cardiovascular medicine
+20624169,2010,263,1834,8,8,Cohort study,Endocrinology and metabolism
+22254072,2010,287,1791,12,12,Other or unspecified design,Other or general medicine
+20733445,2010,270,1983,12,12,Randomized controlled trial,Other or general medicine
+21112921,2010,240,1669,3,3,Randomized controlled trial,Cardiovascular medicine
+20504122,2010,289,2003,5,5,Other or unspecified design,Cardiovascular medicine
+20492005,2010,268,1876,7,7,Cohort study,Cardiovascular medicine
+20682017,2010,301,1929,15,15,Randomized controlled trial,Endocrinology and metabolism
+19885711,2010,280,2022,8,8,Other or unspecified design,Endocrinology and metabolism
+21122062,2010,240,1922,12,12,Cross-sectional study,Cardiovascular medicine
+20705721,2010,265,1855,7,7,Cross-sectional study,Cardiovascular medicine
+21171529,2010,162,1179,9,9,Other or unspecified design,Other or general medicine
+21075054,2010,457,3006,24,24,Meta-analysis or systematic review,Oncology
+21129333,2010,277,1781,6,6,Other or unspecified design,Endocrinology and metabolism
+22666007,2011,234,1568,4,4,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+21219853,2011,535,3616,13,7,Other or unspecified design,Surgery and orthopedics
+21591871,2011,260,1776,4,4,Cohort study,Gastroenterology and hepatobiliary medicine
+21441130,2011,225,1719,3,3,Other or unspecified design,Endocrinology and metabolism
+22924306,2011,351,2212,6,6,Other or unspecified design,Surgery and orthopedics
+22299381,2011,267,1696,4,4,Other or unspecified design,Cardiovascular medicine
+21841542,2011,258,1653,6,6,Other or unspecified design,Respiratory medicine
+20553786,2011,216,1522,9,9,Other or unspecified design,Other or general medicine
+23171622,2011,189,1371,4,4,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+21324825,2011,291,1931,11,11,Randomized controlled trial,Endocrinology and metabolism
+21981286,2011,300,1827,11,11,Other or unspecified design,Endocrinology and metabolism
+21410602,2011,258,1911,6,5,Questionnaire or survey study,Respiratory medicine
+21273939,2011,308,2131,12,11,Randomized controlled trial,Oncology
+22108858,2011,216,1554,4,4,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+21560835,2011,181,1204,3,3,Cross-sectional study,Other or general medicine
+22545131,2012,216,1640,3,3,Other or unspecified design,Oncology
+22969252,2012,214,1400,13,13,Other or unspecified design,Cardiovascular medicine
+22311294,2012,257,2044,3,3,Nonrandomized intervention or clinical trial,Cardiovascular medicine
+22158099,2012,309,1974,5,5,Other or unspecified design,Cardiovascular medicine
+22954074,2012,321,1998,17,17,Questionnaire or survey study,Obstetrics and gynecology
+22652377,2012,235,1603,5,5,Other or unspecified design,Oncology
+22142634,2012,264,1689,8,8,Other or unspecified design,Other or general medicine
+23131574,2012,308,2090,5,5,Randomized controlled trial,Other or general medicine
+24051989,2012,214,1336,3,3,Other or unspecified design,Cardiovascular medicine
+22209591,2012,218,1529,5,5,Other or unspecified design,Cardiovascular medicine
+22885408,2012,383,2573,6,6,Cohort study,Respiratory medicine
+22473036,2012,291,2108,5,5,Other or unspecified design,Other or general medicine
+22865016,2012,317,2336,6,5,Nonrandomized intervention or clinical trial,Cardiovascular medicine
+21478798,2012,206,1505,9,9,Case report or case series,Neurology and psychiatry
+23060582,2012,178,1318,3,3,Other or unspecified design,Oncology
+23610082,2013,273,1796,11,11,Other or unspecified design,Endocrinology and metabolism
+23074216,2013,216,1352,8,8,Other or unspecified design,Cardiovascular medicine
+24295266,2013,277,1823,5,5,Other or unspecified design,Oncology
+23910908,2013,260,1619,8,8,Other or unspecified design,Infectious diseases
+23459096,2013,248,1643,8,8,Other or unspecified design,Oncology
+22907693,2013,312,2049,22,22,Cohort study,Cardiovascular medicine
+23949317,2013,452,2579,21,21,Other or unspecified design,Cardiovascular medicine
+23039321,2013,249,1580,10,10,Randomized controlled trial,Endocrinology and metabolism
+24140383,2013,214,1496,3,3,Randomized controlled trial,Cardiovascular medicine
+23109506,2013,257,1565,8,7,Other or unspecified design,Endocrinology and metabolism
+24576194,2013,252,1502,9,9,Randomized controlled trial,Cardiovascular medicine
+23679109,2013,277,1755,20,19,Cross-sectional study,Pediatrics and neonatology
+23611640,2013,263,1822,7,7,Questionnaire or survey study,Other or general medicine
+23356556,2013,262,1707,18,17,Other or unspecified design,Endocrinology and metabolism
+23880570,2013,165,1122,5,5,Other or unspecified design,Neurology and psychiatry
+23288160,2013,303,2350,12,12,Other or unspecified design,Endocrinology and metabolism
+25252480,2014,251,1682,5,5,Randomized controlled trial,Endocrinology and metabolism
+24504442,2014,325,2205,17,17,Nonrandomized intervention or clinical trial,Oncology
+24470515,2014,271,1688,7,7,Cohort study,Cardiovascular medicine
+24876454,2014,276,1844,6,6,Cohort study,Endocrinology and metabolism
+25006749,2014,209,1440,8,8,Other or unspecified design,Pediatrics and neonatology
+24668309,2014,303,2002,7,5,Randomized controlled trial,Obstetrics and gynecology
+26087840,2014,217,1548,5,5,Questionnaire or survey study,Cardiovascular medicine
+23971677,2014,321,2234,3,3,Other or unspecified design,Endocrinology and metabolism
+24964817,2014,244,1948,5,5,Other or unspecified design,Cardiovascular medicine
+24403474,2014,160,1156,10,10,Other or unspecified design,Oncology
+24440279,2014,321,2267,13,13,Other or unspecified design,Oncology
+24465779,2014,266,1865,6,6,Other or unspecified design,Oncology
+25455987,2014,428,3050,7,6,Randomized controlled trial,Respiratory medicine
+24612300,2014,157,1167,3,3,Case report or case series,Oncology
+24505094,2015,216,1553,4,4,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+26342550,2015,316,2087,9,8,Other or unspecified design,Oncology
+25549283,2015,273,1900,7,7,Other or unspecified design,Endocrinology and metabolism
+26202784,2015,227,1517,9,9,Other or unspecified design,Cardiovascular medicine
+26863433,2015,196,1304,5,5,Questionnaire or survey study,Other or general medicine
+25751242,2015,249,1673,4,4,Other or unspecified design,Other or general medicine
+25933722,2015,234,1665,24,22,Questionnaire or survey study,Endocrinology and metabolism
+26204638,2015,252,1740,6,5,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+26114916,2015,398,2907,8,8,Questionnaire or survey study,Gastroenterology and hepatobiliary medicine
+25781527,2015,255,1694,8,8,Questionnaire or survey study,Endocrinology and metabolism
+26498438,2015,327,2149,9,9,Other or unspecified design,Other or general medicine
+26531829,2015,340,2015,6,6,Other or unspecified design,Cardiovascular medicine
+25595045,2015,249,1628,3,3,Cross-sectional study,Respiratory medicine
+26825059,2015,340,2286,4,4,Cross-sectional study,Other or general medicine
+26743983,2015,151,988,4,4,Other or unspecified design,Infectious diseases
+27755965,2016,180,1223,7,7,Other or unspecified design,Oncology
+27876378,2016,224,1380,3,3,Other or unspecified design,Oncology
+27487366,2016,269,1776,21,19,Other or unspecified design,Cardiovascular medicine
+27551787,2016,500,3215,25,25,Questionnaire or survey study,Pediatrics and neonatology
+26111831,2016,262,1837,4,4,Other or unspecified design,Endocrinology and metabolism
+27316489,2016,249,1688,8,8,Randomized controlled trial,Cardiovascular medicine
+26402643,2016,146,921,4,4,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+26158853,2016,297,1820,9,8,Other or unspecified design,Cardiovascular medicine
+27256067,2016,327,2288,6,6,Cross-sectional study,Cardiovascular medicine
+27255222,2016,198,1496,3,3,Other or unspecified design,Oncology
+27339779,2016,265,1855,10,10,Randomized controlled trial,Cardiovascular medicine
+28341262,2016,216,1550,5,5,Other or unspecified design,Infectious diseases
+27179814,2016,236,1721,7,7,Randomized controlled trial,Infectious diseases
+26938489,2016,262,1591,17,17,Randomized controlled trial,Endocrinology and metabolism
+26959497,2016,302,1991,6,6,Other or unspecified design,Cardiovascular medicine
+27826741,2016,288,2191,12,12,Randomized controlled trial,Neurology and psychiatry
+27836107,2016,255,1803,8,8,Other or unspecified design,Neurology and psychiatry
+27832984,2016,243,1667,5,5,Questionnaire or survey study,Oncology
+26284315,2016,170,1147,9,9,Other or unspecified design,Other or general medicine
+28250007,2017,255,1890,8,8,Other or unspecified design,Oncology
+28098413,2017,348,2321,18,18,Other or unspecified design,Pediatrics and neonatology
+29251458,2017,455,3041,3,3,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+27862131,2017,254,1732,5,5,Other or unspecified design,Other or general medicine
+28054191,2017,279,1781,16,16,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+29280309,2017,227,1529,5,5,Other or unspecified design,Endocrinology and metabolism
+28446496,2017,310,2159,7,7,Randomized controlled trial,Endocrinology and metabolism
+28487027,2017,264,1792,3,3,Other or unspecified design,Obstetrics and gynecology
+30543683,2017,268,1824,7,7,Questionnaire or survey study,Obstetrics and gynecology
+27800644,2017,294,2044,17,17,Nonrandomized intervention or clinical trial,Cardiovascular medicine
+28925893,2017,259,1813,5,5,Other or unspecified design,Cardiovascular medicine
+28341544,2017,287,2077,5,5,Other or unspecified design,Cardiovascular medicine
+29335781,2018,262,1764,9,9,Cohort study,Cardiovascular medicine
+29753612,2018,299,2068,8,8,Cohort study,Oncology
+30024443,2018,276,1937,7,7,Other or unspecified design,Other or general medicine
+29912068,2018,267,1949,8,8,Other or unspecified design,Cardiovascular medicine
+29538407,2018,273,1749,11,11,Cohort study,Neurology and psychiatry
+30092398,2018,321,2140,18,18,Cohort study,Cardiovascular medicine
+30178685,2018,313,2062,14,10,Other or unspecified design,Pediatrics and neonatology
+29309634,2018,273,1913,8,8,Other or unspecified design,Obstetrics and gynecology
+30093365,2018,259,1712,9,9,Other or unspecified design,Neurology and psychiatry
+30259770,2018,192,1254,13,12,Cohort study,Surgery and orthopedics
+30056842,2018,254,1726,11,11,Cohort study,Cardiovascular medicine
+29635533,2018,303,1960,17,17,Other or unspecified design,Endocrinology and metabolism
+29799676,2018,265,1678,19,19,Other or unspecified design,Oncology
+29526564,2018,283,1982,4,4,Cohort study,Cardiovascular medicine
+30371845,2018,295,1951,6,6,Other or unspecified design,Other or general medicine
+29808754,2018,266,1836,5,5,Other or unspecified design,Cardiovascular medicine
+31420365,2019,304,2046,12,11,Cohort study,Cardiovascular medicine
+31079283,2019,265,1912,6,6,Meta-analysis or systematic review,Oncology
+30916860,2019,208,1483,4,4,Other or unspecified design,Cardiovascular medicine
+33180392,2019,243,1722,3,3,Other or unspecified design,Other or general medicine
+29968132,2019,255,1691,4,4,Other or unspecified design,Pediatrics and neonatology
+31562148,2019,303,2325,8,8,Cross-sectional study,Cardiovascular medicine
+29017426,2019,215,1463,5,5,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+31608548,2019,287,1997,4,4,Meta-analysis or systematic review,Endocrinology and metabolism
+31924480,2019,295,2206,4,4,Other or unspecified design,Neurology and psychiatry
+30909919,2019,204,1402,6,6,Cohort study,Cardiovascular medicine
+31682788,2019,175,1184,3,3,Other or unspecified design,Neurology and psychiatry
+32011440,2019,267,2007,8,7,Case report or case series,Respiratory medicine
+31642779,2019,365,2451,3,3,Case-control study,Neurology and psychiatry
+31408270,2019,310,2103,18,17,Other or unspecified design,Neurology and psychiatry
+31306137,2019,261,1804,3,3,Other or unspecified design,Neurology and psychiatry
+30395050,2019,277,1912,11,11,Randomized controlled trial,Other or general medicine
+33026751,2020,297,2005,14,13,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+32727406,2020,243,1631,4,4,Other or unspecified design,Cardiovascular medicine
+33331579,2020,258,1765,9,9,Other or unspecified design,Other or general medicine
+32392056,2020,159,1125,4,4,Other or unspecified design,Neurology and psychiatry
+33032479,2020,328,2255,16,16,Other or unspecified design,Cardiovascular medicine
+32505932,2020,193,1213,4,4,Randomized controlled trial,Pediatrics and neonatology
+32228577,2020,375,2423,4,4,Other or unspecified design,Cardiovascular medicine
+34335092,2020,224,1435,7,7,Other or unspecified design,Infectious diseases
+34250412,2020,297,1939,12,12,Cohort study,Oncology
+32102641,2020,262,1812,8,8,Cohort study,Cardiovascular medicine
+32438301,2020,293,2065,6,6,Randomized controlled trial,Endocrinology and metabolism
+33822783,2020,310,2108,8,8,Cohort study,Endocrinology and metabolism
+34096465,2021,259,1852,7,7,Cohort study,Oncology
+33707563,2021,231,1462,3,3,Other or unspecified design,Other or general medicine
+33171467,2021,271,1771,8,7,Other or unspecified design,Oncology
+34371837,2021,275,1909,4,4,Meta-analysis or systematic review,Oncology
+33360186,2021,286,1951,4,4,Other or unspecified design,Other or general medicine
+33883857,2021,285,1829,14,14,Other or unspecified design,Cardiovascular medicine
+32814443,2021,327,2384,12,12,Other or unspecified design,Cardiovascular medicine
+34865593,2021,301,1946,4,4,Other or unspecified design,Oncology
+32242812,2021,265,1851,8,8,Diagnostic accuracy study,Other or general medicine
+34034670,2021,281,1933,7,7,Other or unspecified design,Pediatrics and neonatology
+33388038,2021,404,2678,26,26,Meta-analysis or systematic review,Cardiovascular medicine
+33991953,2021,194,1377,6,6,Other or unspecified design,Oncology
+34755324,2021,321,2162,14,14,Other or unspecified design,Cardiovascular medicine
+34826015,2021,272,1892,7,7,Other or unspecified design,Cardiovascular medicine
+31698497,2021,295,2000,4,4,Cohort study,Respiratory medicine
+33029934,2021,215,1554,6,5,Other or unspecified design,Neurology and psychiatry
+32880247,2021,272,1897,16,16,Cohort study,Infectious diseases
+34848131,2022,400,2472,8,8,Case-control study,Cardiovascular medicine
+34160666,2022,255,1815,11,11,Other or unspecified design,Infectious diseases
+34266804,2022,258,1636,6,6,Other or unspecified design,Neurology and psychiatry
+35240969,2022,259,1738,3,3,Cross-sectional study,Endocrinology and metabolism
+35366432,2022,262,1757,3,3,Cross-sectional study,Cardiovascular medicine
+35099112,2022,193,1350,3,3,Other or unspecified design,Endocrinology and metabolism
+36316614,2022,294,1946,11,11,Cohort study,Other or general medicine
+36376325,2022,194,1470,3,3,Other or unspecified design,Oncology
+36149285,2022,130,891,3,3,Other or unspecified design,Cardiovascular medicine
+36441433,2022,278,1855,3,3,Randomized controlled trial,Cardiovascular medicine
+36053638,2022,330,2286,5,5,Other or unspecified design,Cardiovascular medicine
+36415598,2022,547,3988,17,17,Other or unspecified design,Oncology
+35631134,2022,339,2262,10,10,Other or unspecified design,Obstetrics and gynecology
+36333405,2022,249,1682,7,7,Cohort study,Cardiovascular medicine
+35457582,2022,251,1766,3,3,Cohort study,Endocrinology and metabolism
+37143204,2023,285,1842,5,5,Other or unspecified design,Oncology
+36843596,2023,254,1768,6,6,Other or unspecified design,Neurology and psychiatry
+38079020,2023,325,2340,6,6,Other or unspecified design,Oncology
+37578993,2023,214,1389,10,10,Other or unspecified design,Cardiovascular medicine
+37409224,2023,317,2226,20,20,Other or unspecified design,Cardiovascular medicine
+37192789,2023,316,2180,12,12,Randomized controlled trial,Cardiovascular medicine
+36661429,2023,330,2239,8,8,Cohort study,Respiratory medicine
+37503875,2023,286,1838,14,14,Randomized controlled trial,Cardiovascular medicine
+36815303,2023,249,1737,4,4,Other or unspecified design,Neurology and psychiatry
+37591029,2023,278,1983,3,3,Randomized controlled trial,Cardiovascular medicine
+37121312,2023,272,1708,4,4,Diagnostic accuracy study,Neurology and psychiatry
+36814219,2023,280,1827,4,4,Cohort study,Cardiovascular medicine
+38258374,2023,242,1702,6,6,Other or unspecified design,Cardiovascular medicine
+36635421,2023,244,1890,3,3,Other or unspecified design,Neurology and psychiatry
+37470867,2023,281,1880,8,8,Cohort study,Pediatrics and neonatology
+37278273,2023,250,1649,21,21,Randomized controlled trial,Endocrinology and metabolism
+36575039,2023,241,1771,12,12,Other or unspecified design,Oncology
+37822270,2023,277,2012,15,15,Meta-analysis or systematic review,Endocrinology and metabolism
+37936510,2024,248,1723,10,10,Cross-sectional study,Endocrinology and metabolism
+38189136,2024,349,2480,3,3,Other or unspecified design,Other or general medicine
+39401684,2024,303,2171,5,5,Cohort study,Neurology and psychiatry
+37526878,2024,277,1868,14,13,Questionnaire or survey study,Cardiovascular medicine
+39283873,2024,378,2526,10,10,Randomized controlled trial,Other or general medicine
+39465537,2024,277,2149,6,6,Qualitative study,Cardiovascular medicine
+39537680,2024,191,1296,12,12,Other or unspecified design,Cardiovascular medicine
+38402177,2024,280,1958,6,6,Meta-analysis or systematic review,Cardiovascular medicine
+39423876,2024,248,1881,3,3,Cohort study,Infectious diseases
+39748556,2024,290,2008,10,10,Cross-sectional study,Endocrinology and metabolism
+39014098,2024,267,1816,7,7,Cross-sectional study,Neurology and psychiatry
+38971701,2024,274,1915,12,12,Other or unspecified design,Surgery and orthopedics
+37653357,2024,276,1645,12,11,Other or unspecified design,Other or general medicine
+38436381,2025,383,2468,6,6,Randomized controlled trial,Respiratory medicine
+39793592,2025,849,5695,36,35,Randomized controlled trial,Cardiovascular medicine
+40632742,2025,275,1987,7,7,Cohort study,Cardiovascular medicine
+40864980,2025,450,3283,4,4,Cross-sectional study,Cardiovascular medicine
+40783142,2025,282,2090,3,3,Cohort study,Cardiovascular medicine
+40781908,2025,281,2030,4,4,Randomized controlled trial,Cardiovascular medicine
+40560275,2025,202,1606,5,5,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+41081106,2025,258,2106,6,6,Cohort study,Oncology
+41299202,2025,276,1884,7,7,Other or unspecified design,Endocrinology and metabolism
+40082397,2025,214,1541,8,7,Other or unspecified design,Respiratory medicine
+41193372,2025,245,1779,14,13,Randomized controlled trial,Oncology
+40510489,2025,293,1904,17,17,Other or unspecified design,Cardiovascular medicine
+40599689,2025,193,1382,7,7,Other or unspecified design,Other or general medicine
+40956079,2026,316,2202,9,9,Other or unspecified design,Oncology
+42321588,2026,298,2229,6,6,Cohort study,Oncology
+41710963,2026,264,1964,17,17,Cohort study,Other or general medicine
+42459213,2026,224,1580,11,11,Cross-sectional study,Public health and epidemiology
+42128454,2026,312,2194,14,12,Randomized controlled trial,Gastroenterology and hepatobiliary medicine
+41643052,2026,282,2023,8,8,Other or unspecified design,Surgery and orthopedics
+42222074,2026,252,1861,3,3,Other or unspecified design,Endocrinology and metabolism
+41492819,2026,257,1878,13,13,Other or unspecified design,Other or general medicine
+41663160,2026,337,2488,25,24,Questionnaire or survey study,Oncology
+41478294,2026,308,2084,18,17,Other or unspecified design,Respiratory medicine
+42206038,2026,249,1673,5,5,Cohort study,Neurology and psychiatry
+17266687,2006,274,1869,14,14,Randomized controlled trial,Gastroenterology and hepatobiliary medicine
+16889846,2006,253,1578,10,10,Other or unspecified design,Cardiovascular medicine
+16927435,2006,265,1804,10,10,Questionnaire or survey study,Other or general medicine
+16534519,2006,277,1962,11,11,Cohort study,Cardiovascular medicine
+17935245,2006,259,1817,7,7,Randomized controlled trial,Cardiovascular medicine
+16785337,2006,327,1922,13,13,Other or unspecified design,Cardiovascular medicine
+17063178,2006,269,1960,4,4,Other or unspecified design,Oncology
+16830712,2006,260,1656,3,3,Cross-sectional study,Gastroenterology and hepatobiliary medicine
+17454844,2006,330,2125,14,14,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+16476868,2006,354,2534,22,22,Meta-analysis or systematic review,Cardiovascular medicine
+17182106,2006,290,1921,6,6,Other or unspecified design,Neurology and psychiatry
+16769384,2006,284,1901,13,13,Other or unspecified design,Endocrinology and metabolism
+17072485,2006,181,1222,5,5,Questionnaire or survey study,Gastroenterology and hepatobiliary medicine
+16773960,2006,255,1647,8,8,Other or unspecified design,Respiratory medicine
+17033209,2006,276,1883,13,13,Other or unspecified design,Oncology
+16932830,2006,265,1774,5,5,Other or unspecified design,Cardiovascular medicine
+16600750,2006,277,1923,8,8,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+17044457,2006,357,2487,10,10,Other or unspecified design,Surgery and orthopedics
+16721834,2006,231,1696,7,7,Questionnaire or survey study,Cardiovascular medicine
+17132879,2006,320,2228,12,12,Other or unspecified design,Cardiovascular medicine
+17103445,2006,342,2387,4,4,Other or unspecified design,Oncology
+16908901,2006,388,2817,4,4,Meta-analysis or systematic review,Gastroenterology and hepatobiliary medicine
+16386664,2006,429,2934,6,3,Other or unspecified design,Cardiovascular medicine
+16647411,2006,197,1370,8,8,Randomized controlled trial,Pediatrics and neonatology
+16940716,2006,322,1919,12,12,Other or unspecified design,Cardiovascular medicine
+16929084,2006,223,1437,9,9,Diagnostic accuracy study,Endocrinology and metabolism
+16740755,2006,283,2026,5,5,Other or unspecified design,Oncology
+17323856,2006,317,2286,8,8,Other or unspecified design,Respiratory medicine
+16630990,2006,290,2036,3,3,Other or unspecified design,Cardiovascular medicine
+17050115,2006,232,1551,7,7,Other or unspecified design,Endocrinology and metabolism
+16855995,2006,382,2641,6,6,Meta-analysis or systematic review,Endocrinology and metabolism
+16502323,2006,180,1482,5,5,Case report or case series,Cardiovascular medicine
+16417467,2006,273,1889,7,6,Other or unspecified design,Oncology
+17030976,2006,292,1877,5,5,Cohort study,Obstetrics and gynecology
+17063991,2006,285,1798,12,11,Cross-sectional study,Endocrinology and metabolism
+16678749,2006,265,1922,7,7,Cohort study,Pediatrics and neonatology
+16572378,2006,265,1737,7,7,Cohort study,Oncology
+16880304,2006,273,1998,5,5,Case-control study,Cardiovascular medicine
+16978368,2006,234,1592,11,10,Cross-sectional study,Endocrinology and metabolism
+16549139,2006,291,1917,12,12,Other or unspecified design,Cardiovascular medicine
+16622810,2006,272,2038,5,5,Other or unspecified design,Respiratory medicine
+17145100,2006,233,1535,7,6,Cohort study,Infectious diseases
+16750426,2006,250,1857,9,9,Randomized controlled trial,Cardiovascular medicine
+16908309,2006,226,1443,12,12,Other or unspecified design,Surgery and orthopedics
+17098347,2006,282,1836,6,6,Other or unspecified design,Other or general medicine
+16927063,2006,255,1826,13,12,Other or unspecified design,Oncology
+16816511,2006,454,2801,29,29,Case-control study,Cardiovascular medicine
+17763188,2006,308,2056,5,5,Other or unspecified design,Cardiovascular medicine
+16826028,2006,249,1742,11,11,Other or unspecified design,Other or general medicine
+16362400,2006,283,1889,4,4,Meta-analysis or systematic review,Other or general medicine
+16912021,2006,236,1536,4,4,Other or unspecified design,Cardiovascular medicine
+17070438,2006,287,1895,8,8,Cross-sectional study,Endocrinology and metabolism
+16940191,2006,227,1629,6,6,Questionnaire or survey study,Cardiovascular medicine
+16125346,2006,345,2160,6,6,Cohort study,Endocrinology and metabolism
+17045448,2006,258,1648,4,4,Questionnaire or survey study,Gastroenterology and hepatobiliary medicine
+17057932,2006,253,1629,9,8,Cross-sectional study,Cardiovascular medicine
+16490433,2006,298,1946,3,3,Case-control study,Cardiovascular medicine
+16416009,2006,233,1530,4,4,Other or unspecified design,Oncology
+17163270,2006,129,979,4,4,Other or unspecified design,Neurology and psychiatry
+16760502,2006,182,1064,5,5,Other or unspecified design,Other or general medicine
+17278018,2006,250,1629,6,6,Other or unspecified design,Other or general medicine
+17310818,2006,263,1743,13,13,Randomized controlled trial,Infectious diseases
+16944256,2006,338,2115,12,11,Other or unspecified design,Respiratory medicine
+16536854,2006,198,1258,7,7,Other or unspecified design,Cardiovascular medicine
+16632234,2006,222,1586,10,10,Randomized controlled trial,Endocrinology and metabolism
+17294672,2006,236,1587,6,6,Other or unspecified design,Cardiovascular medicine
+17318358,2006,320,2050,10,10,Diagnostic accuracy study,Oncology
+15992948,2006,249,1811,10,10,Other or unspecified design,Cardiovascular medicine
+17197845,2006,256,1885,6,6,Randomized controlled trial,Other or general medicine
+17335297,2006,383,2672,14,12,Randomized controlled trial,Cardiovascular medicine
+16842058,2006,303,2113,19,19,Cohort study,Cardiovascular medicine
+17192771,2006,304,2094,13,13,Other or unspecified design,Other or general medicine
+16724166,2006,372,2407,5,4,Other or unspecified design,Oncology
+16637862,2006,267,1854,4,4,Other or unspecified design,Cardiovascular medicine
+16533938,2006,425,2924,24,22,Randomized controlled trial,Cardiovascular medicine
+16728362,2006,282,1917,11,11,Questionnaire or survey study,Other or general medicine
+17466533,2007,337,2266,16,16,Other or unspecified design,Cardiovascular medicine
+17027100,2007,261,1820,6,6,Case report or case series,Cardiovascular medicine
+17848625,2007,290,2055,8,8,Other or unspecified design,Cardiovascular medicine
+17935545,2007,262,1733,21,18,Randomized controlled trial,Endocrinology and metabolism
+17983054,2007,245,1616,9,9,Other or unspecified design,Other or general medicine
+17461697,2007,301,2048,11,10,Other or unspecified design,Cardiovascular medicine
+17537193,2007,257,1785,15,15,Other or unspecified design,Oncology
+18005081,2007,268,1732,8,8,Other or unspecified design,Cardiovascular medicine
+18084338,2007,224,1473,5,5,Cohort study,Oncology
+17460334,2007,239,1445,7,7,Other or unspecified design,Cardiovascular medicine
+17804095,2007,319,2203,8,8,Other or unspecified design,Cardiovascular medicine
+17597092,2007,222,1525,8,8,Other or unspecified design,Cardiovascular medicine
+17554581,2007,265,1721,6,6,Randomized controlled trial,Surgery and orthopedics
+17898991,2007,266,1656,7,7,Cohort study,Cardiovascular medicine
+17513645,2007,291,2012,8,8,Other or unspecified design,Other or general medicine
+17627880,2007,226,1517,8,8,Other or unspecified design,Cardiovascular medicine
+18184072,2007,280,1894,18,18,Other or unspecified design,Endocrinology and metabolism
+17606565,2007,288,1966,10,10,Other or unspecified design,Cardiovascular medicine
+18159569,2007,252,1575,9,9,Other or unspecified design,Other or general medicine
+17522388,2007,255,1751,3,3,Cohort study,Oncology
+17551077,2007,243,1594,8,8,Other or unspecified design,Endocrinology and metabolism
+17549579,2007,287,1958,5,5,Cohort study,Obstetrics and gynecology
+17233236,2007,213,1484,5,5,Randomized controlled trial,Other or general medicine
+18204170,2007,278,1941,13,13,Other or unspecified design,Cardiovascular medicine
+17511829,2007,229,1596,12,12,Other or unspecified design,Surgery and orthopedics
+17685744,2007,288,1990,15,12,Randomized controlled trial,Cardiovascular medicine
+17706257,2007,216,1465,5,5,Cross-sectional study,Cardiovascular medicine
+17329994,2007,161,1066,8,8,Other or unspecified design,Pediatrics and neonatology
+17728183,2007,295,1846,22,22,Questionnaire or survey study,Pediatrics and neonatology
+17431582,2007,262,1869,11,11,Other or unspecified design,Infectious diseases
+17536644,2007,298,2315,11,11,Questionnaire or survey study,Respiratory medicine
+17593515,2007,356,2537,11,11,Randomized controlled trial,Oncology
+17458641,2007,278,1890,9,9,Other or unspecified design,Cardiovascular medicine
+17721022,2007,227,1574,8,8,Other or unspecified design,Cardiovascular medicine
+18018764,2007,284,1933,6,6,Cohort study,Neurology and psychiatry
+17699476,2007,283,1933,8,8,Randomized controlled trial,Other or general medicine
+18063832,2007,321,2255,8,8,Case-control study,Neurology and psychiatry
+17297625,2007,227,1622,6,6,Other or unspecified design,Endocrinology and metabolism
+17543781,2007,299,2066,31,27,Randomized controlled trial,Cardiovascular medicine
+17255865,2007,299,1950,6,6,Cohort study,Other or general medicine
+17445582,2007,185,1202,10,10,Other or unspecified design,Surgery and orthopedics
+18651320,2007,246,1585,5,5,Randomized controlled trial,Endocrinology and metabolism
+17288616,2007,336,2177,5,5,Cohort study,Cardiovascular medicine
+17975526,2007,256,1721,7,6,Other or unspecified design,Cardiovascular medicine
+17227734,2007,246,1566,5,5,Other or unspecified design,Cardiovascular medicine
+18193919,2007,336,2489,12,12,Randomized controlled trial,Other or general medicine
+18336730,2007,236,1534,3,3,Other or unspecified design,Infectious diseases
+17455118,2007,231,1349,11,11,Other or unspecified design,Cardiovascular medicine
+17620936,2007,179,1230,15,15,Other or unspecified design,Cardiovascular medicine
+17573503,2007,285,1846,8,8,Other or unspecified design,Respiratory medicine
+17385193,2007,271,1717,11,11,Other or unspecified design,Endocrinology and metabolism
+18182826,2007,344,2216,5,5,Questionnaire or survey study,Gastroenterology and hepatobiliary medicine
+17502951,2007,354,2405,15,15,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+17853341,2007,108,701,4,4,Other or unspecified design,Other or general medicine
+17148935,2007,274,1868,4,4,Randomized controlled trial,Oncology
+17704543,2007,328,2278,6,6,Nonrandomized intervention or clinical trial,Cardiovascular medicine
+17167112,2007,248,1546,8,8,Other or unspecified design,Cardiovascular medicine
+18928166,2007,310,2141,5,5,Other or unspecified design,Cardiovascular medicine
+17599881,2007,351,2465,5,5,Other or unspecified design,Cardiovascular medicine
+17138725,2007,282,1869,4,4,Other or unspecified design,Other or general medicine
+17448127,2007,318,1948,22,22,Other or unspecified design,Endocrinology and metabolism
+18535373,2007,285,1882,4,4,Other or unspecified design,Neurology and psychiatry
+17556899,2007,322,2234,9,9,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+17567421,2007,270,1954,6,6,Randomized controlled trial,Gastroenterology and hepatobiliary medicine
+17409801,2007,258,1807,10,10,Other or unspecified design,Oncology
+17400115,2007,331,2319,4,4,Other or unspecified design,Cardiovascular medicine
+17729422,2007,293,1851,6,5,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+17982313,2007,276,2037,4,4,Other or unspecified design,Other or general medicine
+17666574,2007,332,2278,5,5,Other or unspecified design,Neurology and psychiatry
+17691593,2007,321,2164,6,6,Meta-analysis or systematic review,Pediatrics and neonatology
+17552288,2007,241,1706,3,3,Other or unspecified design,Cardiovascular medicine
+17335320,2007,305,2467,6,6,Meta-analysis or systematic review,Neurology and psychiatry
+17517244,2007,263,1729,8,8,Other or unspecified design,Endocrinology and metabolism
+19011997,2008,218,1417,4,4,Other or unspecified design,Endocrinology and metabolism
+18782878,2008,282,1802,3,3,Cross-sectional study,Cardiovascular medicine
+20523161,2008,253,1681,3,3,Other or unspecified design,Other or general medicine
+18939403,2008,229,1492,5,5,Case-control study,Endocrinology and metabolism
+18008179,2008,363,2503,14,14,Qualitative study,Gastroenterology and hepatobiliary medicine
+18820280,2008,285,2003,5,5,Randomized controlled trial,Endocrinology and metabolism
+17499864,2008,279,1973,11,11,Other or unspecified design,Cardiovascular medicine
+18822022,2008,287,1994,8,8,Other or unspecified design,Endocrinology and metabolism
+18430196,2008,286,1902,13,13,Cohort study,Infectious diseases
+18653444,2008,466,3224,3,3,Randomized controlled trial,Endocrinology and metabolism
+19948706,2008,242,1601,3,3,Other or unspecified design,Cardiovascular medicine
+18428144,2008,287,1870,5,5,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+18250133,2008,240,1696,8,8,Other or unspecified design,Cardiovascular medicine
+18571533,2008,203,1240,9,9,Diagnostic accuracy study,Neurology and psychiatry
+19100399,2008,263,1848,9,9,Nonrandomized intervention or clinical trial,Surgery and orthopedics
+18784539,2008,274,1898,8,8,Other or unspecified design,Cardiovascular medicine
+18478625,2008,253,1741,5,5,Other or unspecified design,Infectious diseases
+18514931,2008,230,1580,3,3,Other or unspecified design,Cardiovascular medicine
+18728969,2008,285,1859,8,8,Cross-sectional study,Pediatrics and neonatology
+19106390,2008,237,1621,12,11,Questionnaire or survey study,Cardiovascular medicine
+18941890,2008,290,1917,10,10,Other or unspecified design,Oncology
+18751437,2008,183,1128,11,11,Nonrandomized intervention or clinical trial,Oncology
+18324957,2008,353,2399,7,7,Nonrandomized intervention or clinical trial,Endocrinology and metabolism
+19149840,2008,282,1797,7,7,Other or unspecified design,Cardiovascular medicine
+19053991,2008,294,2211,3,3,Other or unspecified design,Oncology
+18165577,2008,266,1791,5,5,Randomized controlled trial,Gastroenterology and hepatobiliary medicine
+17977751,2008,248,1676,3,3,Other or unspecified design,Cardiovascular medicine
+19079848,2008,236,1671,4,4,Cross-sectional study,Public health and epidemiology
+18693476,2008,360,2517,7,7,Cross-sectional study,Endocrinology and metabolism
+19126922,2008,243,1680,5,5,Other or unspecified design,Cardiovascular medicine
+18560024,2008,197,1255,3,3,Cross-sectional study,Endocrinology and metabolism
+19606235,2008,266,1959,7,7,Other or unspecified design,Oncology
+18164182,2008,194,1311,3,3,Other or unspecified design,Neurology and psychiatry
+19263808,2008,415,2745,12,12,Other or unspecified design,Endocrinology and metabolism
+18774997,2008,252,1796,4,4,Questionnaire or survey study,Endocrinology and metabolism
+18180976,2008,345,2230,24,23,Randomized controlled trial,Gastroenterology and hepatobiliary medicine
+18762805,2008,237,1707,3,3,Other or unspecified design,Endocrinology and metabolism
+17852932,2008,216,1328,9,9,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+19104006,2008,263,1770,4,4,Other or unspecified design,Cardiovascular medicine
+18954496,2008,295,2027,8,8,Cross-sectional study,Neurology and psychiatry
+19049481,2008,290,2083,9,9,Randomized controlled trial,Cardiovascular medicine
+18728103,2008,331,2406,15,15,Randomized controlled trial,Surgery and orthopedics
+19009909,2008,210,1236,11,10,Other or unspecified design,Cardiovascular medicine
+18166826,2008,285,1966,6,6,Cohort study,Endocrinology and metabolism
+18925528,2008,232,1502,10,10,Other or unspecified design,Other or general medicine
+18463346,2008,256,1749,7,7,Other or unspecified design,Endocrinology and metabolism
+18787975,2008,354,2494,6,6,Questionnaire or survey study,Other or general medicine
+18226046,2008,272,1791,3,3,Cohort study,Endocrinology and metabolism
+18371864,2008,212,1501,3,3,Other or unspecified design,Obstetrics and gynecology
+18790237,2008,239,1695,8,8,Other or unspecified design,Surgery and orthopedics
+18459062,2008,253,1884,10,10,Other or unspecified design,Surgery and orthopedics
+18475154,2008,306,2154,6,6,Randomized controlled trial,Cardiovascular medicine
+18710472,2008,288,2032,4,4,Other or unspecified design,Oncology
+19111629,2008,185,1381,3,3,Randomized controlled trial,Neurology and psychiatry
+18394453,2008,210,1433,6,6,Other or unspecified design,Other or general medicine
+18451119,2008,271,1792,3,3,Case report or case series,Endocrinology and metabolism
+18349174,2008,258,1899,9,9,Case report or case series,Oncology
+18519175,2008,457,3089,3,3,Meta-analysis or systematic review,Surgery and orthopedics
+18502303,2008,344,2345,12,12,Randomized controlled trial,Cardiovascular medicine
+19076975,2008,267,1864,12,11,Other or unspecified design,Other or general medicine
+18325740,2008,215,1539,3,3,Randomized controlled trial,Neurology and psychiatry
+19020809,2008,289,1726,4,4,Other or unspecified design,Cardiovascular medicine
+19100580,2008,279,1838,8,8,Cohort study,Oncology
+18341490,2008,336,2110,6,6,Other or unspecified design,Cardiovascular medicine
+18466198,2008,241,1577,7,6,Randomized controlled trial,Cardiovascular medicine
+18083633,2008,223,1577,3,3,Other or unspecified design,Cardiovascular medicine
+18950796,2008,186,1346,5,5,Other or unspecified design,Respiratory medicine
+18095747,2008,388,2652,10,8,Randomized controlled trial,Cardiovascular medicine
+18685527,2008,318,1816,11,11,Other or unspecified design,Cardiovascular medicine
+19149794,2008,258,1843,7,7,Other or unspecified design,Cardiovascular medicine
+18440953,2008,252,1815,15,15,Cohort study,Other or general medicine
+18714153,2008,235,1683,15,15,Other or unspecified design,Oncology
+18979529,2009,187,1297,6,6,Diagnostic accuracy study,Other or general medicine
+19185560,2009,292,1931,15,14,Randomized controlled trial,Obstetrics and gynecology
+19538714,2009,283,1897,3,3,Other or unspecified design,Other or general medicine
+19336266,2009,256,1695,3,3,Other or unspecified design,Cardiovascular medicine
+19225206,2009,214,1452,4,4,Qualitative study,Cardiovascular medicine
+19514097,2009,171,1323,3,3,Other or unspecified design,Neurology and psychiatry
+19232026,2009,226,1484,8,8,Other or unspecified design,Pediatrics and neonatology
+19347711,2009,243,1628,5,5,Other or unspecified design,Endocrinology and metabolism
+19232691,2009,267,1777,6,6,Cohort study,Oncology
+19656332,2009,257,1761,3,3,Other or unspecified design,Other or general medicine
+19843000,2009,272,1727,17,17,Randomized controlled trial,Gastroenterology and hepatobiliary medicine
+19813774,2009,306,2150,13,13,Other or unspecified design,Cardiovascular medicine
+19825057,2009,173,1116,7,7,Questionnaire or survey study,Obstetrics and gynecology
+18535592,2009,271,1721,11,11,Other or unspecified design,Endocrinology and metabolism
+18829281,2009,259,1811,3,3,Other or unspecified design,Cardiovascular medicine
+19318138,2009,272,2012,5,5,Randomized controlled trial,Neurology and psychiatry
+20144400,2009,352,2444,21,21,Other or unspecified design,Cardiovascular medicine
+20030530,2009,234,1608,5,5,Other or unspecified design,Cardiovascular medicine
+19385712,2009,325,2419,7,7,Meta-analysis or systematic review,Neurology and psychiatry
+20929033,2009,332,2087,10,9,Case report or case series,Cardiovascular medicine
+19233857,2009,268,1715,7,7,Meta-analysis or systematic review,Cardiovascular medicine
+20353552,2009,316,2067,7,7,Other or unspecified design,Other or general medicine
+19233935,2009,276,1821,6,6,Other or unspecified design,Cardiovascular medicine
+20200461,2009,122,886,3,3,Other or unspecified design,Cardiovascular medicine
+20040931,2009,299,1805,4,4,Other or unspecified design,Cardiovascular medicine
+18947437,2009,268,1857,4,4,Other or unspecified design,Other or general medicine
+20047622,2009,196,1348,5,4,Randomized controlled trial,Cardiovascular medicine
+19645218,2009,287,1836,12,12,Other or unspecified design,Neurology and psychiatry
+19935591,2009,351,2419,12,12,Other or unspecified design,Other or general medicine
+19214338,2009,317,2131,6,6,Cross-sectional study,Endocrinology and metabolism
+18829988,2009,286,1915,8,8,Other or unspecified design,Cardiovascular medicine
+18641916,2009,99,649,6,6,Other or unspecified design,Other or general medicine
+19303331,2009,259,1849,6,6,Cross-sectional study,Cardiovascular medicine
+19135998,2009,268,1835,15,14,Randomized controlled trial,Gastroenterology and hepatobiliary medicine
+19707112,2009,287,2085,7,7,Other or unspecified design,Cardiovascular medicine
+19934286,2009,293,2029,12,12,Other or unspecified design,Oncology
+19237723,2009,301,2002,15,15,Randomized controlled trial,Respiratory medicine
+19013521,2009,201,1407,14,12,Other or unspecified design,Cardiovascular medicine
+19812061,2009,283,1942,11,11,Other or unspecified design,Oncology
+19388888,2009,249,1755,9,9,Questionnaire or survey study,Respiratory medicine
+19486788,2009,289,1852,8,8,Randomized controlled trial,Cardiovascular medicine
+20031900,2009,497,3367,18,17,Randomized controlled trial,Cardiovascular medicine
+19692684,2009,275,1826,12,12,Other or unspecified design,Oncology
+19390517,2009,309,1990,10,10,Randomized controlled trial,Endocrinology and metabolism
+19329308,2009,337,2340,5,5,Other or unspecified design,Other or general medicine
+19451353,2009,300,2020,6,6,Randomized controlled trial,Cardiovascular medicine
+19215678,2009,210,1490,4,4,Other or unspecified design,Other or general medicine
+19347832,2009,273,1895,13,13,Other or unspecified design,Oncology
+19369457,2009,235,1417,9,9,Randomized controlled trial,Other or general medicine
+19494205,2009,189,1214,11,11,Other or unspecified design,Surgery and orthopedics
+19200272,2009,197,1222,7,7,Other or unspecified design,Endocrinology and metabolism
+19303163,2009,215,1502,5,5,Other or unspecified design,Oncology
+19303695,2009,334,2130,10,10,Cohort study,Oncology
+19240350,2009,215,1373,3,3,Other or unspecified design,Endocrinology and metabolism
+19284064,2009,257,1589,15,14,Other or unspecified design,Cardiovascular medicine
+19346379,2009,180,1200,4,4,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+19239605,2009,304,2162,14,14,Nonrandomized intervention or clinical trial,Cardiovascular medicine
+19184304,2009,216,1410,7,7,Other or unspecified design,Other or general medicine
+19448391,2009,244,1750,3,3,Other or unspecified design,Cardiovascular medicine
+19538732,2009,330,2445,3,3,Randomized controlled trial,Infectious diseases
+19357502,2009,236,1624,9,9,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+20025646,2009,271,1705,14,12,Cohort study,Respiratory medicine
+19715842,2009,284,1882,17,16,Other or unspecified design,Infectious diseases
+20683173,2009,249,1723,5,5,Randomized controlled trial,Endocrinology and metabolism
+19678893,2009,278,1786,6,6,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+19950026,2009,249,1875,10,10,Other or unspecified design,Cardiovascular medicine
+19575395,2009,231,1755,3,3,Other or unspecified design,Cardiovascular medicine
+21058191,2009,229,1503,11,10,Randomized controlled trial,Oncology
+19067404,2009,206,1380,4,4,Other or unspecified design,Obstetrics and gynecology
+19403734,2009,289,1899,13,13,Cohort study,Oncology
+20088163,2009,250,1540,12,11,Other or unspecified design,Cardiovascular medicine
+19425875,2009,294,1990,5,5,Randomized controlled trial,Neurology and psychiatry
+19943165,2010,290,2007,4,4,Other or unspecified design,Cardiovascular medicine
+20550601,2010,291,1776,9,9,Other or unspecified design,Infectious diseases
+22126468,2010,306,1922,8,8,Other or unspecified design,Oncology
+20595409,2010,353,2381,8,8,Other or unspecified design,Other or general medicine
+20884422,2010,243,1715,11,11,Randomized controlled trial,Cardiovascular medicine
+20078256,2010,162,1140,3,3,Cross-sectional study,Obstetrics and gynecology
+20732787,2010,415,2862,15,15,Nonrandomized intervention or clinical trial,Other or general medicine
+20464112,2010,261,1795,14,14,Randomized controlled trial,Oncology
+19800877,2010,215,1431,4,4,Other or unspecified design,Endocrinology and metabolism
+20356594,2010,425,3118,8,8,Other or unspecified design,Cardiovascular medicine
+19927044,2010,136,910,3,3,Other or unspecified design,Other or general medicine
+20631261,2010,797,5193,9,9,Other or unspecified design,Cardiovascular medicine
+20205281,2010,256,1608,14,14,Other or unspecified design,Oncology
+20159178,2010,220,1524,6,6,Cohort study,Other or general medicine
+20061982,2010,263,1855,5,5,Other or unspecified design,Cardiovascular medicine
+21091740,2010,287,1888,10,10,Other or unspecified design,Cardiovascular medicine
+21121345,2010,211,1431,3,3,Other or unspecified design,Oncology
+20624257,2010,264,1838,11,11,Randomized controlled trial,Other or general medicine
+19624802,2010,347,2305,7,7,Other or unspecified design,Other or general medicine
+22087841,2010,357,2727,3,3,Other or unspecified design,Other or general medicine
+20583124,2010,174,1215,3,3,Cohort study,Other or general medicine
+21160315,2010,299,2049,6,6,Other or unspecified design,Other or general medicine
+20506355,2010,321,2181,3,3,Randomized controlled trial,Cardiovascular medicine
+20061413,2010,241,1767,4,4,Other or unspecified design,Oncology
+21145254,2010,271,1871,3,3,Other or unspecified design,Endocrinology and metabolism
+20715770,2010,318,2167,6,6,Other or unspecified design,Endocrinology and metabolism
+22268263,2010,195,1221,3,3,Other or unspecified design,Obstetrics and gynecology
+19834731,2010,306,1917,4,4,Other or unspecified design,Other or general medicine
+20878324,2010,286,1839,8,8,Randomized controlled trial,Oncology
+20828851,2010,216,1465,3,3,Cross-sectional study,Endocrinology and metabolism
+20815884,2010,373,2461,5,5,Other or unspecified design,Respiratory medicine
+20804617,2010,344,2382,8,8,Case-control study,Neurology and psychiatry
+20847998,2010,377,2493,7,7,Case-control study,Other or general medicine
+21046025,2010,218,1468,4,4,Other or unspecified design,Other or general medicine
+21073625,2010,254,1812,4,4,Other or unspecified design,Pediatrics and neonatology
+20687544,2010,342,2338,3,3,Other or unspecified design,Oncology
+20846702,2010,279,1800,15,14,Cross-sectional study,Endocrinology and metabolism
+21107682,2010,254,1788,13,13,Cohort study,Oncology
+20007516,2010,255,1926,3,3,Other or unspecified design,Endocrinology and metabolism
+19997984,2010,282,1987,11,11,Other or unspecified design,Oncology
+19901014,2010,223,1521,15,14,Nonrandomized intervention or clinical trial,Oncology
+20162282,2010,303,1956,6,6,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+21147107,2010,247,1685,3,3,Other or unspecified design,Oncology
+20838027,2010,210,1569,4,4,Other or unspecified design,Neurology and psychiatry
+20424586,2010,203,1532,5,5,Other or unspecified design,Endocrinology and metabolism
+20955266,2010,268,1872,9,9,Randomized controlled trial,Oncology
+20661012,2010,276,1855,21,18,Other or unspecified design,Oncology
+21091586,2010,264,1789,13,12,Other or unspecified design,Pediatrics and neonatology
+20922511,2010,305,2096,5,5,Other or unspecified design,Cardiovascular medicine
+21029008,2010,321,2171,15,15,Other or unspecified design,Infectious diseases
+20586113,2010,215,1467,3,3,Other or unspecified design,Respiratory medicine
+20685672,2010,259,1847,4,4,Other or unspecified design,Neurology and psychiatry
+20803356,2010,268,1775,6,6,Other or unspecified design,Cardiovascular medicine
+20368304,2010,290,1961,3,3,Cohort study,Cardiovascular medicine
+21078068,2010,251,1746,12,12,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+20338978,2010,221,1435,6,6,Randomized controlled trial,Endocrinology and metabolism
+20300731,2010,262,1922,3,3,Other or unspecified design,Cardiovascular medicine
+21079397,2010,285,2046,12,12,Other or unspecified design,Neurology and psychiatry
+21892855,2010,190,1372,3,3,Other or unspecified design,Endocrinology and metabolism
+21109910,2010,293,1960,12,12,Cross-sectional study,Cardiovascular medicine
+23875517,2010,163,1096,4,4,Other or unspecified design,Endocrinology and metabolism
+20929696,2010,276,2015,9,9,Other or unspecified design,Cardiovascular medicine
+20675955,2010,268,1937,3,3,Randomized controlled trial,Cardiovascular medicine
+20971212,2010,202,1358,6,6,Other or unspecified design,Respiratory medicine
+20642944,2010,329,2235,11,11,Randomized controlled trial,Surgery and orthopedics
+19282292,2010,170,1246,3,3,Other or unspecified design,Oncology
+19843236,2010,255,1701,9,8,Case-control study,Respiratory medicine
+21430378,2010,215,1385,4,4,Cross-sectional study,Cardiovascular medicine
+20835509,2010,266,1748,7,7,Other or unspecified design,Cardiovascular medicine
+20413518,2010,309,2014,24,23,Other or unspecified design,Endocrinology and metabolism
+20849407,2010,276,1875,9,9,Other or unspecified design,Respiratory medicine
+20809682,2010,293,1987,9,9,Other or unspecified design,Endocrinology and metabolism
+20516417,2010,296,2082,25,25,Cohort study,Cardiovascular medicine
+20117459,2010,245,1814,9,9,Other or unspecified design,Cardiovascular medicine
+20971741,2010,247,1755,8,8,Other or unspecified design,Oncology
+20558497,2011,225,1480,6,6,Meta-analysis or systematic review,Endocrinology and metabolism
+21789865,2011,272,1805,9,9,Other or unspecified design,Other or general medicine
+21491172,2011,297,2254,9,9,Other or unspecified design,Cardiovascular medicine
+22701542,2011,235,1587,3,3,Other or unspecified design,Cardiovascular medicine
+21505207,2011,219,1507,16,16,Questionnaire or survey study,Cardiovascular medicine
+22213685,2011,166,1289,3,3,Other or unspecified design,Other or general medicine
+21679633,2011,279,1633,9,9,Other or unspecified design,Cardiovascular medicine
+21289521,2011,338,2252,25,25,Other or unspecified design,Oncology
+22876543,2011,289,1787,8,8,Randomized controlled trial,Pediatrics and neonatology
+21409383,2011,353,2216,5,5,Randomized controlled trial,Oncology
+22043750,2011,191,1204,4,4,Other or unspecified design,Pediatrics and neonatology
+20336149,2011,228,1654,11,11,Other or unspecified design,Cardiovascular medicine
+21192190,2011,219,1397,4,4,Case report or case series,Neurology and psychiatry
+21996202,2011,325,2350,6,6,Other or unspecified design,Cardiovascular medicine
+20829333,2011,267,1837,3,3,Other or unspecified design,Cardiovascular medicine
+22050386,2011,195,1205,4,4,Other or unspecified design,Neurology and psychiatry
+21310313,2011,267,1904,9,8,Other or unspecified design,Cardiovascular medicine
+21358413,2011,440,2877,9,9,Other or unspecified design,Neurology and psychiatry
+21245835,2011,285,2080,6,6,Cohort study,Gastroenterology and hepatobiliary medicine
+21558668,2011,238,1501,5,5,Other or unspecified design,Cardiovascular medicine
+21624043,2011,266,1690,6,6,Other or unspecified design,Cardiovascular medicine
+22968341,2011,247,1659,15,15,Diagnostic accuracy study,Endocrinology and metabolism
+21487718,2011,230,1623,3,3,Cohort study,Oncology
+21501193,2011,153,978,10,10,Other or unspecified design,Other or general medicine
+21748312,2011,223,1525,19,19,Other or unspecified design,Obstetrics and gynecology
+22948067,2011,219,1503,3,3,Cross-sectional study,Other or general medicine
+21573022,2011,276,1750,3,3,Other or unspecified design,Endocrinology and metabolism
+21319285,2011,235,1601,5,5,Cohort study,Pediatrics and neonatology
+21503747,2011,217,1442,10,10,Other or unspecified design,Oncology
+21649528,2011,221,1492,4,4,Other or unspecified design,Cardiovascular medicine
+21635154,2011,249,1653,17,17,Other or unspecified design,Endocrinology and metabolism
+21115620,2011,264,1704,12,12,Other or unspecified design,Cardiovascular medicine
+21757836,2011,116,790,3,3,Other or unspecified design,Cardiovascular medicine
+21719412,2011,346,2252,10,10,Randomized controlled trial,Gastroenterology and hepatobiliary medicine
+21270185,2011,278,1926,13,11,Randomized controlled trial,Cardiovascular medicine
+21502435,2011,177,1226,3,3,Other or unspecified design,Oncology
+21336119,2011,338,2555,17,15,Randomized controlled trial,Oncology
+21087229,2011,238,1494,8,8,Other or unspecified design,Pediatrics and neonatology
+21645435,2011,209,1249,3,3,Other or unspecified design,Neurology and psychiatry
+22624000,2011,252,1660,16,16,Other or unspecified design,Endocrinology and metabolism
+21286851,2011,215,1559,3,3,Other or unspecified design,Cardiovascular medicine
+22374365,2011,197,1336,10,10,Cross-sectional study,Cardiovascular medicine
+21565418,2011,268,1947,6,6,Meta-analysis or systematic review,Oncology
+21897207,2011,275,1795,10,10,Diagnostic accuracy study,Oncology
+20861193,2011,262,1884,23,22,Cross-sectional study,Cardiovascular medicine
+21399532,2011,272,1650,14,14,Other or unspecified design,Other or general medicine
+21515868,2011,288,2151,9,9,Other or unspecified design,Surgery and orthopedics
+22200915,2011,211,1388,12,10,Other or unspecified design,Other or general medicine
+21036913,2011,271,1981,7,7,Other or unspecified design,Neurology and psychiatry
+21334400,2011,265,1738,15,15,Other or unspecified design,Oncology
+22313065,2011,289,1913,7,7,Cohort study,Cardiovascular medicine
+21621824,2011,259,1777,12,12,Qualitative study,Other or general medicine
+21346923,2011,1195,7945,36,36,Other or unspecified design,Endocrinology and metabolism
+21962188,2011,259,1762,6,5,Case report or case series,Oncology
+21817131,2011,229,1618,5,5,Other or unspecified design,Other or general medicine
+21255476,2011,281,1777,3,3,Other or unspecified design,Public health and epidemiology
+21435188,2011,281,2010,3,3,Cohort study,Cardiovascular medicine
+21464464,2011,170,1305,4,4,Cross-sectional study,Endocrinology and metabolism
+21036535,2011,236,1695,4,4,Other or unspecified design,Oncology
+21995559,2011,263,1879,10,10,Other or unspecified design,Cardiovascular medicine
+21505767,2011,208,1432,4,4,Other or unspecified design,Oncology
+21724872,2011,219,1575,8,8,Other or unspecified design,Other or general medicine
+20921214,2011,153,1039,3,3,Other or unspecified design,Cardiovascular medicine
+20959784,2011,367,2565,4,4,Randomized controlled trial,Cardiovascular medicine
+21864489,2011,265,1835,4,4,Other or unspecified design,Oncology
+23082211,2011,318,1988,8,8,Questionnaire or survey study,Cardiovascular medicine
+21722610,2011,214,1463,4,4,Other or unspecified design,Other or general medicine
+21406611,2011,252,1633,10,10,Other or unspecified design,Oncology
+25474682,2011,189,1238,9,9,Other or unspecified design,Cardiovascular medicine
+23082568,2011,269,1749,9,9,Other or unspecified design,Endocrinology and metabolism
+20880100,2011,193,1363,17,17,Questionnaire or survey study,Endocrinology and metabolism
+20817668,2011,400,2556,15,15,Other or unspecified design,Endocrinology and metabolism
+22102705,2011,165,1073,3,3,Cohort study,Obstetrics and gynecology
+22495250,2012,259,1812,8,8,Other or unspecified design,Cardiovascular medicine
+23042765,2012,249,1806,4,4,Other or unspecified design,Oncology
+22796461,2012,257,1816,13,12,Other or unspecified design,Oncology
+23006034,2012,220,1425,7,7,Other or unspecified design,Public health and epidemiology
+21779787,2012,282,1845,8,8,Other or unspecified design,Oncology
+22868370,2012,272,1883,4,4,Other or unspecified design,Oncology
+22397653,2012,348,2314,4,4,Randomized controlled trial,Other or general medicine
+23108746,2012,225,1443,7,7,Case-control study,Endocrinology and metabolism
+22464363,2012,270,2009,11,11,Other or unspecified design,Other or general medicine
+21303810,2012,253,1597,6,6,Other or unspecified design,Other or general medicine
+21777201,2012,255,1780,6,6,Other or unspecified design,Cardiovascular medicine
+21538428,2012,266,1829,8,8,Other or unspecified design,Oncology
+22887791,2012,272,1862,14,14,Other or unspecified design,Oncology
+22417126,2012,214,1551,6,6,Case report or case series,Other or general medicine
+23768444,2012,267,1798,3,3,Other or unspecified design,Endocrinology and metabolism
+22435948,2012,277,1964,4,4,Other or unspecified design,Cardiovascular medicine
+22362086,2012,253,1748,5,5,Cohort study,Other or general medicine
+22546820,2012,269,1897,3,3,Other or unspecified design,Oncology
+23285232,2012,282,1969,7,7,Other or unspecified design,Endocrinology and metabolism
+23159590,2012,168,1241,4,4,Diagnostic accuracy study,Oncology
+23040626,2012,270,1757,6,6,Cohort study,Oncology
+23326992,2012,188,1176,7,7,Other or unspecified design,Surgery and orthopedics
+22509775,2012,219,1575,4,4,Nonrandomized intervention or clinical trial,Neurology and psychiatry
+21970465,2012,267,1940,11,11,Other or unspecified design,Respiratory medicine
+22724029,2012,293,1942,19,19,Randomized controlled trial,Other or general medicine
+23025296,2012,204,1354,7,7,Other or unspecified design,Cardiovascular medicine
+22496351,2012,249,1867,4,4,Other or unspecified design,Oncology
+22908206,2012,257,1968,5,5,Other or unspecified design,Cardiovascular medicine
+23070128,2012,158,1121,3,3,Randomized controlled trial,Other or general medicine
+22161771,2012,262,1953,4,4,Meta-analysis or systematic review,Oncology
+23409025,2012,249,1786,3,3,Other or unspecified design,Obstetrics and gynecology
+23311802,2012,238,1408,10,10,Other or unspecified design,Surgery and orthopedics
+22609122,2012,313,2372,10,10,Other or unspecified design,Oncology
+22341043,2012,284,2093,5,5,Other or unspecified design,Oncology
+22079117,2012,224,1501,10,10,Other or unspecified design,Other or general medicine
+22750965,2012,299,1839,4,3,Other or unspecified design,Cardiovascular medicine
+22023846,2012,241,1772,4,4,Other or unspecified design,Infectious diseases
+22906847,2012,216,1428,5,5,Randomized controlled trial,Cardiovascular medicine
+22829102,2012,315,2144,10,10,Randomized controlled trial,Obstetrics and gynecology
+23391676,2012,283,1836,10,10,Other or unspecified design,Other or general medicine
+22492156,2012,176,1311,5,5,Other or unspecified design,Respiratory medicine
+22235821,2012,204,1401,5,4,Randomized controlled trial,Cardiovascular medicine
+22734111,2012,255,1677,3,3,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+22418829,2012,212,1538,7,7,Randomized controlled trial,Other or general medicine
+23520478,2012,306,2321,7,7,Randomized controlled trial,Infectious diseases
+22582544,2012,147,1042,10,10,Other or unspecified design,Endocrinology and metabolism
+22975101,2012,282,1844,9,9,Other or unspecified design,Cardiovascular medicine
+22315980,2012,206,1388,4,4,Other or unspecified design,Cardiovascular medicine
+21549519,2012,260,1794,10,10,Other or unspecified design,Oncology
+22329370,2012,291,1841,16,16,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+21277108,2012,306,2195,7,7,Cohort study,Oncology
+22804749,2012,580,4034,21,19,Randomized controlled trial,Oncology
+23302446,2012,197,1417,3,3,Randomized controlled trial,Neurology and psychiatry
+22321084,2012,191,1443,4,4,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+23126349,2012,250,1713,13,13,Randomized controlled trial,Cardiovascular medicine
+22249647,2012,240,1766,6,6,Randomized controlled trial,Cardiovascular medicine
+21922453,2012,264,1724,9,9,Other or unspecified design,Endocrinology and metabolism
+22644091,2012,243,1741,5,5,Other or unspecified design,Other or general medicine
+23137067,2012,233,1688,16,16,Other or unspecified design,Cardiovascular medicine
+22990506,2012,242,1620,10,10,Other or unspecified design,Cardiovascular medicine
+23019396,2012,248,1735,12,12,Questionnaire or survey study,Oncology
+22178250,2012,234,1678,7,7,Other or unspecified design,Cardiovascular medicine
+24220165,2012,248,1468,12,12,Other or unspecified design,Pediatrics and neonatology
+22715363,2012,322,2099,8,8,Other or unspecified design,Infectious diseases
+22743721,2012,210,1359,5,5,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+22900702,2012,176,1186,3,3,Randomized controlled trial,Cardiovascular medicine
+22589000,2012,281,1866,4,4,Other or unspecified design,Respiratory medicine
+22736635,2012,198,1269,9,9,Other or unspecified design,Infectious diseases
+23762460,2012,287,2136,11,11,Cross-sectional study,Cardiovascular medicine
+22223192,2012,264,1792,11,11,Other or unspecified design,Surgery and orthopedics
+23208465,2012,202,1433,5,5,Other or unspecified design,Cardiovascular medicine
+23941129,2013,273,1849,9,9,Other or unspecified design,Cardiovascular medicine
+23856360,2013,316,2284,8,8,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+23581721,2013,393,2640,11,11,Cohort study,Cardiovascular medicine
+23189958,2013,226,1508,19,19,Other or unspecified design,Oncology
+23835511,2013,266,1905,7,7,Randomized controlled trial,Infectious diseases
+23061531,2013,289,1908,13,13,Randomized controlled trial,Cardiovascular medicine
+23145943,2013,332,2231,6,6,Other or unspecified design,Cardiovascular medicine
+22819528,2013,264,2036,5,5,Cohort study,Endocrinology and metabolism
+24235954,2013,222,1445,7,7,Cross-sectional study,Other or general medicine
+24362925,2013,876,6070,13,13,Meta-analysis or systematic review,Other or general medicine
+23410602,2013,273,1777,8,8,Other or unspecified design,Endocrinology and metabolism
+23638904,2013,205,1252,3,3,Other or unspecified design,Endocrinology and metabolism
+23886771,2013,221,1455,6,6,Other or unspecified design,Oncology
+23952345,2013,358,2468,7,7,Other or unspecified design,Oncology
+23143205,2013,285,2004,8,8,Other or unspecified design,Cardiovascular medicine
+24290868,2013,278,1968,16,16,Meta-analysis or systematic review,Gastroenterology and hepatobiliary medicine
+24248816,2013,271,1709,5,5,Other or unspecified design,Oncology
+23844634,2013,252,1623,6,6,Diagnostic accuracy study,Endocrinology and metabolism
+24548580,2013,272,1783,8,8,Other or unspecified design,Endocrinology and metabolism
+23670354,2013,179,1246,4,4,Randomized controlled trial,Endocrinology and metabolism
+24902022,2013,265,1854,4,4,Case-control study,Other or general medicine
+22816599,2013,303,1836,4,4,Other or unspecified design,Neurology and psychiatry
+23580698,2013,283,1832,3,3,Case-control study,Oncology
+23395200,2013,246,1713,11,11,Other or unspecified design,Endocrinology and metabolism
+23418529,2013,253,1647,7,7,Cross-sectional study,Endocrinology and metabolism
+23759037,2013,367,2402,3,3,Other or unspecified design,Oncology
+22537976,2013,265,1822,14,14,Cohort study,Cardiovascular medicine
+24183755,2013,219,1471,5,5,Other or unspecified design,Endocrinology and metabolism
+23139259,2013,243,1603,15,15,Randomized controlled trial,Oncology
+23824244,2013,301,1974,7,6,Other or unspecified design,Cardiovascular medicine
+23520170,2013,219,1465,3,3,Other or unspecified design,Cardiovascular medicine
+24056403,2013,280,1751,5,5,Other or unspecified design,Oncology
+23521170,2013,388,2472,8,8,Randomized controlled trial,Cardiovascular medicine
+23437959,2013,269,1900,17,16,Randomized controlled trial,Pediatrics and neonatology
+24182687,2013,253,1747,24,24,Cohort study,Cardiovascular medicine
+23731042,2013,270,1853,9,9,Other or unspecified design,Surgery and orthopedics
+24170759,2013,286,1929,14,14,Randomized controlled trial,Cardiovascular medicine
+23561587,2013,273,1904,3,3,Other or unspecified design,Cardiovascular medicine
+23764436,2013,255,1692,5,5,Randomized controlled trial,Endocrinology and metabolism
+24151864,2013,297,1884,10,9,Other or unspecified design,Endocrinology and metabolism
+23873621,2013,264,1937,7,7,Other or unspecified design,Oncology
+23445569,2013,423,2894,4,4,Other or unspecified design,Oncology
+23355407,2013,190,1375,3,3,Other or unspecified design,Surgery and orthopedics
+23458594,2013,215,1530,15,14,Other or unspecified design,Cardiovascular medicine
+23213086,2013,251,1750,9,9,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+24040114,2013,298,2008,7,7,Randomized controlled trial,Oncology
+23065919,2013,283,1715,6,6,Diagnostic accuracy study,Endocrinology and metabolism
+25213798,2013,374,2479,12,12,Other or unspecified design,Pediatrics and neonatology
+23054463,2013,287,1864,12,12,Cohort study,Cardiovascular medicine
+24491463,2013,294,2085,8,8,Randomized controlled trial,Surgery and orthopedics
+24283518,2013,288,2166,17,16,Cohort study,Oncology
+24279226,2013,257,1748,12,12,Other or unspecified design,Cardiovascular medicine
+23857958,2013,231,1549,5,5,Nonrandomized intervention or clinical trial,Oncology
+24551111,2013,290,2136,13,13,Other or unspecified design,Infectious diseases
+24171502,2013,286,1793,14,14,Other or unspecified design,Endocrinology and metabolism
+24211071,2013,244,1587,13,13,Other or unspecified design,Respiratory medicine
+23992543,2013,330,2008,19,19,Other or unspecified design,Endocrinology and metabolism
+24624336,2013,257,1880,4,4,Other or unspecified design,Other or general medicine
+24285150,2013,263,1777,4,4,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+24355548,2013,258,1845,18,18,Other or unspecified design,Neurology and psychiatry
+23466657,2013,217,1442,5,5,Other or unspecified design,Pediatrics and neonatology
+23011357,2013,318,2076,10,10,Other or unspecified design,Endocrinology and metabolism
+24278943,2013,308,2182,4,4,Other or unspecified design,Other or general medicine
+23594003,2013,278,1920,7,7,Randomized controlled trial,Other or general medicine
+24523584,2013,337,2358,3,3,Cross-sectional study,Cardiovascular medicine
+23927315,2013,499,3543,6,6,Other or unspecified design,Other or general medicine
+23580116,2013,268,1749,11,11,Other or unspecified design,Other or general medicine
+23696632,2013,278,1880,20,19,Other or unspecified design,Respiratory medicine
+23970634,2013,203,1403,10,9,Cohort study,Infectious diseases
+24008607,2013,262,1841,8,8,Other or unspecified design,Endocrinology and metabolism
+24395922,2014,263,1842,4,4,Cohort study,Cardiovascular medicine
+25413229,2014,267,1692,4,4,Case report or case series,Cardiovascular medicine
+24400991,2014,200,1385,4,4,Other or unspecified design,Cardiovascular medicine
+23975006,2014,304,2150,12,12,Nonrandomized intervention or clinical trial,Endocrinology and metabolism
+24078486,2014,240,1596,6,6,Other or unspecified design,Cardiovascular medicine
+24090951,2014,202,1477,3,3,Questionnaire or survey study,Neurology and psychiatry
+24998366,2014,258,1830,4,4,Other or unspecified design,Other or general medicine
+25100284,2014,229,1620,6,6,Meta-analysis or systematic review,Oncology
+26673202,2014,220,1512,11,11,Other or unspecified design,Cardiovascular medicine
+24656319,2014,291,1801,14,14,Other or unspecified design,Cardiovascular medicine
+24215127,2014,223,1502,8,8,Other or unspecified design,Cardiovascular medicine
+25274393,2014,271,1830,11,11,Randomized controlled trial,Cardiovascular medicine
+25366730,2014,217,1483,12,8,Meta-analysis or systematic review,Cardiovascular medicine
+24532682,2014,257,1778,8,8,Other or unspecified design,Infectious diseases
+25117573,2014,266,1769,12,11,Other or unspecified design,Infectious diseases
+25673982,2014,273,1801,7,6,Other or unspecified design,Cardiovascular medicine
+25006201,2014,258,1856,3,3,Other or unspecified design,Cardiovascular medicine
+26325258,2014,281,1974,16,16,Questionnaire or survey study,Cardiovascular medicine
+24962242,2014,333,2227,28,26,Randomized controlled trial,Other or general medicine
+24735134,2014,287,2000,5,5,Randomized controlled trial,Endocrinology and metabolism
+24306512,2014,265,1936,3,3,Other or unspecified design,Oncology
+23834756,2014,234,1574,8,8,Other or unspecified design,Cardiovascular medicine
+26306952,2014,244,1587,16,16,Cross-sectional study,Other or general medicine
+25102087,2014,166,1090,6,6,Questionnaire or survey study,Neurology and psychiatry
+24582071,2014,265,1796,15,15,Randomized controlled trial,Other or general medicine
+25374232,2014,282,1724,12,12,Other or unspecified design,Oncology
+24996250,2014,194,1485,7,7,Other or unspecified design,Cardiovascular medicine
+24762000,2014,361,2315,5,5,Other or unspecified design,Cardiovascular medicine
+24156628,2014,266,1719,29,26,Other or unspecified design,Oncology
+24868031,2014,284,1950,11,10,Cohort study,Other or general medicine
+24839823,2014,284,1825,5,3,Other or unspecified design,Pediatrics and neonatology
+24982221,2014,222,1713,3,3,Other or unspecified design,Oncology
+25052227,2014,276,1796,11,11,Randomized controlled trial,Endocrinology and metabolism
+25511579,2014,213,1520,4,4,Other or unspecified design,Cardiovascular medicine
+24726441,2014,259,1833,4,4,Other or unspecified design,Neurology and psychiatry
+25567820,2014,224,1542,9,9,Cohort study,Endocrinology and metabolism
+24169821,2014,273,1839,8,8,Randomized controlled trial,Cardiovascular medicine
+23695895,2014,200,1334,3,3,Other or unspecified design,Endocrinology and metabolism
+25192699,2014,162,1115,6,6,Other or unspecified design,Cardiovascular medicine
+25040985,2014,594,3423,4,4,Other or unspecified design,Oncology
+25193692,2014,370,2648,6,6,Other or unspecified design,Oncology
+24333022,2014,303,1880,4,4,Other or unspecified design,Oncology
+25476065,2014,243,1565,5,5,Case-control study,Obstetrics and gynecology
+25459247,2014,372,2410,8,8,Case report or case series,Oncology
+25098308,2014,249,1755,5,5,Other or unspecified design,Oncology
+24793473,2014,179,1274,6,6,Other or unspecified design,Neurology and psychiatry
+24699205,2014,317,2278,5,5,Other or unspecified design,Other or general medicine
+24448756,2014,284,1742,12,12,Randomized controlled trial,Endocrinology and metabolism
+24801452,2014,312,1775,7,7,Other or unspecified design,Cardiovascular medicine
+24445504,2014,313,2033,12,11,Other or unspecified design,Respiratory medicine
+25193528,2014,276,1783,18,18,Other or unspecified design,Endocrinology and metabolism
+25087679,2014,320,2348,6,6,Case report or case series,Oncology
+24328727,2014,340,2347,6,6,Nonrandomized intervention or clinical trial,Cardiovascular medicine
+25128441,2014,240,1513,10,9,Cohort study,Oncology
+25354740,2014,205,1342,6,6,Other or unspecified design,Endocrinology and metabolism
+25295655,2014,318,2244,12,12,Cohort study,Neurology and psychiatry
+24393424,2014,314,2051,7,7,Randomized controlled trial,Infectious diseases
+24714828,2014,266,1945,6,6,Other or unspecified design,Cardiovascular medicine
+25187084,2014,280,1708,6,6,Other or unspecified design,Cardiovascular medicine
+25128745,2014,263,1819,4,4,Other or unspecified design,Cardiovascular medicine
+25358603,2014,225,1567,5,5,Meta-analysis or systematic review,Neurology and psychiatry
+24767408,2014,229,1499,6,6,Other or unspecified design,Other or general medicine
+25531677,2014,286,2025,6,6,Randomized controlled trial,Endocrinology and metabolism
+25480935,2014,229,1533,15,15,Cohort study,Cardiovascular medicine
+24664641,2014,257,1853,3,3,Other or unspecified design,Endocrinology and metabolism
+25044657,2014,208,1589,3,3,Other or unspecified design,Other or general medicine
+25135724,2014,247,1692,9,9,Randomized controlled trial,Endocrinology and metabolism
+24470464,2014,279,2013,6,6,Other or unspecified design,Cardiovascular medicine
+24379008,2014,267,1786,6,6,Diagnostic accuracy study,Oncology
+24000244,2014,159,1296,3,3,Other or unspecified design,Other or general medicine
+24748471,2014,277,1722,6,6,Case-control study,Endocrinology and metabolism
+26078255,2015,273,1913,8,8,Meta-analysis or systematic review,Endocrinology and metabolism
+26336025,2015,162,1062,3,3,Other or unspecified design,Other or general medicine
+25937001,2015,380,2430,12,12,Case report or case series,Pediatrics and neonatology
+24841432,2015,270,1760,4,4,Questionnaire or survey study,Endocrinology and metabolism
+26571012,2015,224,1543,4,4,Randomized controlled trial,Endocrinology and metabolism
+25574099,2015,328,2378,8,8,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+24506466,2015,224,1412,6,6,Other or unspecified design,Other or general medicine
+25814824,2015,370,2506,7,7,Other or unspecified design,Oncology
+25916257,2015,253,1695,7,7,Other or unspecified design,Cardiovascular medicine
+25658037,2015,277,1878,5,5,Other or unspecified design,Endocrinology and metabolism
+25369749,2015,288,2034,8,8,Other or unspecified design,Oncology
+24972975,2015,252,1697,5,5,Nonrandomized intervention or clinical trial,Endocrinology and metabolism
+25658881,2015,271,1952,3,3,Randomized controlled trial,Other or general medicine
+26415325,2015,280,1904,6,6,Other or unspecified design,Oncology
+26391729,2015,303,2014,17,17,Other or unspecified design,Pediatrics and neonatology
+26004947,2015,381,2483,20,20,Other or unspecified design,Cardiovascular medicine
+24756987,2015,263,1708,3,3,Nonrandomized intervention or clinical trial,Cardiovascular medicine
+26573715,2015,244,1768,4,4,Cohort study,Cardiovascular medicine
+26171883,2015,265,1885,10,10,Other or unspecified design,Oncology
+26358884,2015,370,2482,6,6,Other or unspecified design,Surgery and orthopedics
+25669165,2015,158,1117,11,11,Other or unspecified design,Obstetrics and gynecology
+25673251,2015,326,1917,9,9,Other or unspecified design,Surgery and orthopedics
+26045745,2015,172,1224,3,3,Other or unspecified design,Oncology
+25661986,2015,211,1405,5,5,Other or unspecified design,Cardiovascular medicine
+26411365,2015,324,2388,3,3,Other or unspecified design,Oncology
+25488197,2015,290,1830,12,11,Other or unspecified design,Respiratory medicine
+26808474,2015,283,2094,9,9,Randomized controlled trial,Cardiovascular medicine
+26684058,2015,289,2004,7,7,Cross-sectional study,Cardiovascular medicine
+25896845,2015,247,1673,8,8,Cohort study,Gastroenterology and hepatobiliary medicine
+26645871,2015,386,2433,10,9,Other or unspecified design,Other or general medicine
+26423732,2015,381,2429,11,11,Randomized controlled trial,Oncology
+25899007,2015,305,2205,9,7,Randomized controlled trial,Obstetrics and gynecology
+26259839,2015,248,1708,11,11,Cohort study,Infectious diseases
+26141912,2015,258,1787,15,15,Other or unspecified design,Cardiovascular medicine
+26390998,2015,387,2709,15,13,Randomized controlled trial,Cardiovascular medicine
+26792024,2015,309,2021,5,5,Randomized controlled trial,Endocrinology and metabolism
+25895877,2015,250,1798,12,12,Cohort study,Gastroenterology and hepatobiliary medicine
+25004998,2015,282,1917,3,3,Cross-sectional study,Cardiovascular medicine
+25517416,2015,316,2256,6,6,Other or unspecified design,Endocrinology and metabolism
+25249059,2015,271,1864,8,7,Other or unspecified design,Neurology and psychiatry
+25828994,2015,299,2217,6,6,Randomized controlled trial,Infectious diseases
+26661163,2015,234,1608,8,8,Other or unspecified design,Neurology and psychiatry
+25532041,2015,289,1966,4,4,Cross-sectional study,Endocrinology and metabolism
+25707402,2015,367,2414,6,6,Cohort study,Surgery and orthopedics
+26297582,2015,331,2319,4,4,Other or unspecified design,Cardiovascular medicine
+26856220,2015,277,1999,9,9,Randomized controlled trial,Cardiovascular medicine
+27367452,2015,260,1689,9,9,Other or unspecified design,Cardiovascular medicine
+26064925,2015,212,1492,5,5,Other or unspecified design,Endocrinology and metabolism
+26998838,2015,313,1908,4,4,Cross-sectional study,Other or general medicine
+26286586,2015,252,1703,6,6,Other or unspecified design,Cardiovascular medicine
+25939515,2015,305,2070,3,3,Meta-analysis or systematic review,Oncology
+25673191,2015,290,1972,4,4,Other or unspecified design,Endocrinology and metabolism
+25519264,2015,291,2006,12,12,Other or unspecified design,Infectious diseases
+25546555,2015,280,1943,7,7,Questionnaire or survey study,Endocrinology and metabolism
+27764169,2015,269,1808,7,7,Cohort study,Cardiovascular medicine
+26491273,2015,276,1997,4,4,Randomized controlled trial,Cardiovascular medicine
+26981026,2015,279,1679,7,7,Other or unspecified design,Endocrinology and metabolism
+26540134,2015,212,1513,5,5,Other or unspecified design,Cardiovascular medicine
+25811876,2015,220,1582,3,3,Other or unspecified design,Oncology
+25854413,2015,302,1999,5,5,Other or unspecified design,Surgery and orthopedics
+26211984,2015,556,3587,42,41,Other or unspecified design,Respiratory medicine
+25532570,2015,256,1595,8,8,Cross-sectional study,Other or general medicine
+26254400,2015,165,1279,10,10,Other or unspecified design,Oncology
+25636811,2015,279,1917,3,3,Meta-analysis or systematic review,Endocrinology and metabolism
+25175303,2015,321,1948,11,11,Randomized controlled trial,Surgery and orthopedics
+26071404,2015,244,1495,4,4,Questionnaire or survey study,Cardiovascular medicine
+26044158,2015,288,1898,14,14,Case-control study,Oncology
+25733514,2015,242,1644,4,4,Other or unspecified design,Infectious diseases
+25604769,2015,316,2009,4,4,Randomized controlled trial,Endocrinology and metabolism
+25784663,2015,290,1880,11,11,Nonrandomized intervention or clinical trial,Cardiovascular medicine
+26133742,2015,230,1483,8,8,Other or unspecified design,Other or general medicine
+28539940,2016,221,1540,5,5,Other or unspecified design,Neurology and psychiatry
+27610649,2016,259,1634,16,15,Other or unspecified design,Pediatrics and neonatology
+27874837,2016,476,3056,5,5,Randomized controlled trial,Cardiovascular medicine
+26713971,2016,357,2507,8,8,Other or unspecified design,Cardiovascular medicine
+27743509,2016,316,2122,6,6,Other or unspecified design,Cardiovascular medicine
+26895218,2016,263,1927,4,4,Cohort study,Cardiovascular medicine
+27245159,2016,210,1277,19,15,Other or unspecified design,Other or general medicine
+27957795,2016,258,1658,12,12,Other or unspecified design,Neurology and psychiatry
+26497918,2016,317,2173,8,8,Other or unspecified design,Oncology
+27039084,2016,389,2490,4,4,Other or unspecified design,Cardiovascular medicine
+27733509,2016,275,2086,11,11,Cohort study,Oncology
+27654119,2016,373,2590,7,7,Nonrandomized intervention or clinical trial,Endocrinology and metabolism
+26349751,2016,242,1478,6,6,Other or unspecified design,Oncology
+28003569,2016,292,2032,5,5,Other or unspecified design,Endocrinology and metabolism
+27121323,2016,261,1882,3,3,Other or unspecified design,Oncology
+27593528,2016,268,1880,5,5,Cohort study,Endocrinology and metabolism
+27557557,2016,300,2000,11,11,Cohort study,Pediatrics and neonatology
+27178072,2016,235,1485,9,8,Other or unspecified design,Pediatrics and neonatology
+26044842,2016,243,1620,8,8,Other or unspecified design,Cardiovascular medicine
+27550386,2016,294,2070,21,21,Randomized controlled trial,Endocrinology and metabolism
+26129911,2016,292,1884,7,7,Questionnaire or survey study,Respiratory medicine
+27863643,2016,256,1757,12,12,Other or unspecified design,Pediatrics and neonatology
+25894568,2016,287,1958,5,5,Other or unspecified design,Oncology
+26730842,2016,263,1924,12,12,Other or unspecified design,Cardiovascular medicine
+28591149,2016,248,1696,10,10,Other or unspecified design,Cardiovascular medicine
+26861417,2016,273,2007,3,3,Other or unspecified design,Respiratory medicine
+26525360,2016,241,1780,6,5,Other or unspecified design,Surgery and orthopedics
+28028293,2016,263,1797,5,5,Other or unspecified design,Obstetrics and gynecology
+27241667,2016,255,1844,8,8,Other or unspecified design,Oncology
+26573841,2016,230,1521,4,4,Other or unspecified design,Other or general medicine
+27517958,2016,264,1484,11,10,Randomized controlled trial,Other or general medicine
+27457858,2016,317,1934,10,10,Cohort study,Gastroenterology and hepatobiliary medicine
+26634615,2016,351,2310,13,13,Randomized controlled trial,Cardiovascular medicine
+27321438,2016,211,1455,3,3,Other or unspecified design,Endocrinology and metabolism
+26996814,2016,234,1568,13,13,Diagnostic accuracy study,Endocrinology and metabolism
+26655391,2016,270,1694,14,14,Cross-sectional study,Neurology and psychiatry
+26551298,2016,251,1828,7,7,Cohort study,Obstetrics and gynecology
+27217413,2016,240,1591,9,9,Other or unspecified design,Cardiovascular medicine
+26890570,2016,263,1702,6,6,Cross-sectional study,Cardiovascular medicine
+28063503,2016,249,1686,5,5,Randomized controlled trial,Endocrinology and metabolism
+27893297,2016,268,1750,22,22,Questionnaire or survey study,Pediatrics and neonatology
+27751999,2016,238,1710,8,8,Other or unspecified design,Surgery and orthopedics
+28301497,2016,263,1790,5,5,Other or unspecified design,Pediatrics and neonatology
+27126703,2016,320,2170,8,8,Questionnaire or survey study,Other or general medicine
+27767345,2016,230,1621,6,6,Other or unspecified design,Other or general medicine
+28280732,2016,234,1500,10,10,Other or unspecified design,Cardiovascular medicine
+27259699,2016,278,1998,11,11,Cohort study,Cardiovascular medicine
+28934744,2016,291,1864,4,4,Other or unspecified design,Endocrinology and metabolism
+28043425,2016,248,1673,9,9,Other or unspecified design,Cardiovascular medicine
+27348518,2016,275,1946,5,5,Other or unspecified design,Cardiovascular medicine
+25585851,2016,313,2151,9,9,Diagnostic accuracy study,Cardiovascular medicine
+27716690,2016,295,2057,3,3,Randomized controlled trial,Cardiovascular medicine
+27156171,2016,296,2112,5,5,Case report or case series,Oncology
+27504148,2016,230,1703,7,7,Other or unspecified design,Other or general medicine
+28033297,2016,268,1786,9,8,Other or unspecified design,Other or general medicine
+27699694,2016,270,1846,4,4,Other or unspecified design,Neurology and psychiatry
+28502131,2016,216,1516,4,4,Diagnostic accuracy study,Pediatrics and neonatology
+27187608,2016,290,2182,11,10,Other or unspecified design,Cardiovascular medicine
+27181567,2016,272,1833,9,9,Questionnaire or survey study,Endocrinology and metabolism
+26875474,2016,199,1365,3,3,Other or unspecified design,Pediatrics and neonatology
+27768720,2016,283,2063,4,4,Cohort study,Neurology and psychiatry
+27120708,2016,266,1946,3,3,Cross-sectional study,Surgery and orthopedics
+26967543,2016,369,2642,5,5,Other or unspecified design,Cardiovascular medicine
+26162889,2016,263,1744,7,7,Randomized controlled trial,Respiratory medicine
+27759060,2016,207,1376,3,3,Meta-analysis or systematic review,Oncology
+27776919,2016,140,968,4,4,Other or unspecified design,Neurology and psychiatry
+27236294,2016,264,1932,3,3,Other or unspecified design,Oncology
+27434748,2016,218,1641,16,16,Nonrandomized intervention or clinical trial,Other or general medicine
+26953145,2016,290,2033,10,10,Other or unspecified design,Infectious diseases
+27750191,2016,184,1315,4,4,Qualitative study,Respiratory medicine
+27898415,2016,238,1555,6,6,Other or unspecified design,Neurology and psychiatry
+27564409,2016,366,2394,16,15,Randomized controlled trial,Other or general medicine
+28420205,2017,307,2001,23,23,Questionnaire or survey study,Pediatrics and neonatology
+26610865,2017,240,1643,13,13,Other or unspecified design,Cardiovascular medicine
+27624149,2017,222,1510,3,3,Other or unspecified design,Other or general medicine
+28928357,2017,254,1665,12,12,Case report or case series,Neurology and psychiatry
+28750937,2017,253,1819,5,5,Randomized controlled trial,Cardiovascular medicine
+28729151,2017,558,4017,28,26,Randomized controlled trial,Oncology
+26487571,2017,322,2096,8,8,Other or unspecified design,Other or general medicine
+27260247,2017,307,2068,3,3,Other or unspecified design,Cardiovascular medicine
+28723587,2017,289,1797,10,10,Randomized controlled trial,Pediatrics and neonatology
+28489031,2017,254,1672,6,6,Other or unspecified design,Endocrinology and metabolism
+28847886,2017,293,2078,6,6,Randomized controlled trial,Cardiovascular medicine
+27143107,2017,240,1632,6,6,Other or unspecified design,Oncology
+28416524,2017,351,2410,4,4,Other or unspecified design,Cardiovascular medicine
+28846806,2017,275,1929,6,6,Other or unspecified design,Cardiovascular medicine
+28994661,2017,268,2155,6,6,Randomized controlled trial,Infectious diseases
+28464825,2017,268,1855,13,13,Other or unspecified design,Pediatrics and neonatology
+28092342,2017,309,2082,3,3,Other or unspecified design,Endocrinology and metabolism
+28530702,2017,188,1279,3,3,Randomized controlled trial,Endocrinology and metabolism
+28811749,2017,347,2417,9,9,Randomized controlled trial,Oncology
+30312323,2017,278,1788,4,4,Cohort study,Cardiovascular medicine
+27775510,2017,232,1668,3,3,Cohort study,Endocrinology and metabolism
+28193193,2017,222,1618,9,9,Diagnostic accuracy study,Oncology
+28663250,2017,275,1950,5,5,Other or unspecified design,Cardiovascular medicine
+28552881,2017,271,1861,6,6,Cross-sectional study,Neurology and psychiatry
+28185407,2017,220,1405,5,5,Randomized controlled trial,Other or general medicine
+28686927,2017,262,1764,8,8,Randomized controlled trial,Neurology and psychiatry
+28848080,2017,384,2676,5,5,Other or unspecified design,Neurology and psychiatry
+29422283,2017,265,1868,10,10,Other or unspecified design,Cardiovascular medicine
+29136019,2017,259,1649,12,12,Cohort study,Oncology
+28682905,2017,306,2033,22,22,Other or unspecified design,Other or general medicine
+28977772,2017,212,1477,5,5,Other or unspecified design,Neurology and psychiatry
+28858994,2017,228,1607,6,6,Other or unspecified design,Infectious diseases
+28857806,2017,272,1847,15,15,Randomized controlled trial,Gastroenterology and hepatobiliary medicine
+29247110,2017,326,2279,6,5,Randomized controlled trial,Other or general medicine
+27889307,2017,245,1492,3,3,Other or unspecified design,Other or general medicine
+28062334,2017,252,1756,9,9,Cohort study,Other or general medicine
+27704319,2017,494,3009,18,16,Other or unspecified design,Cardiovascular medicine
+29178248,2017,231,1753,10,10,Case-control study,Infectious diseases
+30596718,2017,334,2403,6,6,Other or unspecified design,Oncology
+28003210,2017,274,1820,7,7,Other or unspecified design,Cardiovascular medicine
+29084624,2017,273,1649,15,15,Other or unspecified design,Other or general medicine
+28147350,2017,380,2425,15,14,Other or unspecified design,Oncology
+28803138,2017,283,2013,22,22,Cohort study,Other or general medicine
+28645458,2017,318,2226,3,3,Questionnaire or survey study,Respiratory medicine
+28573765,2017,283,1998,11,11,Randomized controlled trial,Cardiovascular medicine
+29203650,2017,216,1487,4,4,Other or unspecified design,Neurology and psychiatry
+28869746,2017,215,1511,10,10,Other or unspecified design,Cardiovascular medicine
+29492525,2017,249,1590,3,3,Other or unspecified design,Cardiovascular medicine
+28649076,2017,273,1957,4,4,Other or unspecified design,Other or general medicine
+28988119,2017,234,1644,6,6,Randomized controlled trial,Cardiovascular medicine
+27901040,2017,265,1824,13,13,Randomized controlled trial,Cardiovascular medicine
+29065784,2017,173,1143,10,9,Cohort study,Infectious diseases
+28934974,2017,282,1974,6,6,Cohort study,Endocrinology and metabolism
+28605143,2017,271,1920,4,4,Other or unspecified design,Cardiovascular medicine
+28733700,2017,262,1827,5,5,Cohort study,Oncology
+29256876,2017,220,1565,10,10,Cohort study,Cardiovascular medicine
+28714317,2017,267,1879,5,5,Other or unspecified design,Cardiovascular medicine
+28466499,2017,278,1916,9,9,Other or unspecified design,Other or general medicine
+30019656,2017,288,1938,5,5,Other or unspecified design,Endocrinology and metabolism
+29248656,2017,343,2284,12,12,Other or unspecified design,Cardiovascular medicine
+28780512,2017,288,2185,9,9,Randomized controlled trial,Endocrinology and metabolism
+28870107,2017,260,1835,14,14,Randomized controlled trial,Other or general medicine
+29028680,2017,273,1729,8,8,Other or unspecified design,Cardiovascular medicine
+28404133,2017,504,3433,23,23,Randomized controlled trial,Oncology
+28325614,2017,264,1814,13,13,Other or unspecified design,Cardiovascular medicine
+27815418,2017,271,1880,13,13,Case-control study,Pediatrics and neonatology
+29043600,2017,256,1830,7,7,Randomized controlled trial,Oncology
+28207552,2017,331,2189,14,14,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+27707767,2017,280,1863,9,9,Cohort study,Endocrinology and metabolism
+28212878,2017,262,1791,9,9,Case report or case series,Other or general medicine
+28703014,2017,232,1680,9,9,Other or unspecified design,Cardiovascular medicine
+30430530,2018,177,1206,13,13,Other or unspecified design,Neurology and psychiatry
+29148156,2018,280,1865,17,17,Other or unspecified design,Cardiovascular medicine
+29159396,2018,408,2856,8,8,Cohort study,Cardiovascular medicine
+29925328,2018,242,1696,9,9,Randomized controlled trial,Pediatrics and neonatology
+29961649,2018,270,1909,6,6,Cohort study,Oncology
+29631275,2018,247,1630,3,3,Questionnaire or survey study,Cardiovascular medicine
+30012214,2018,210,1473,6,6,Cohort study,Obstetrics and gynecology
+30133467,2018,499,3391,10,10,Randomized controlled trial,Gastroenterology and hepatobiliary medicine
+30076871,2018,249,1601,18,18,Other or unspecified design,Endocrinology and metabolism
+30172196,2018,381,2667,11,11,Randomized controlled trial,Cardiovascular medicine
+30460613,2018,262,1700,7,7,Other or unspecified design,Endocrinology and metabolism
+30964905,2018,266,1751,10,10,Other or unspecified design,Cardiovascular medicine
+29587863,2018,212,1475,8,8,Randomized controlled trial,Endocrinology and metabolism
+30099979,2018,271,2049,9,9,Randomized controlled trial,Cardiovascular medicine
+30641703,2018,200,1246,5,5,Other or unspecified design,Endocrinology and metabolism
+30401610,2018,418,2566,16,16,Randomized controlled trial,Other or general medicine
+30412998,2018,233,1636,3,3,Other or unspecified design,Neurology and psychiatry
+29764875,2018,336,2329,8,8,Randomized controlled trial,Infectious diseases
+29210062,2018,273,1849,13,13,Other or unspecified design,Other or general medicine
+30125508,2018,158,1172,5,5,Other or unspecified design,Endocrinology and metabolism
+29453200,2018,281,1871,16,16,Cohort study,Cardiovascular medicine
+30126301,2018,217,1333,6,6,Other or unspecified design,Neurology and psychiatry
+29705566,2018,213,1337,6,6,Other or unspecified design,Other or general medicine
+29686132,2018,301,2063,13,11,Cross-sectional study,Other or general medicine
+29061540,2018,312,2171,15,15,Cohort study,Oncology
+30073792,2018,244,1728,3,3,Meta-analysis or systematic review,Cardiovascular medicine
+30515764,2018,243,1644,19,19,Other or unspecified design,Neurology and psychiatry
+31166967,2018,290,1992,6,6,Other or unspecified design,Obstetrics and gynecology
+29575962,2018,225,1649,6,6,Other or unspecified design,Oncology
+30132262,2018,197,1308,3,3,Randomized controlled trial,Cardiovascular medicine
+28653311,2018,228,1516,4,4,Diagnostic accuracy study,Cardiovascular medicine
+28425573,2018,265,1847,16,15,Other or unspecified design,Infectious diseases
+29909748,2018,266,1688,5,5,Meta-analysis or systematic review,Endocrinology and metabolism
+30773303,2018,289,1884,5,5,Other or unspecified design,Surgery and orthopedics
+30032348,2018,282,1852,13,13,Other or unspecified design,Cardiovascular medicine
+29998506,2018,221,1429,8,8,Other or unspecified design,Cardiovascular medicine
+30120775,2018,197,1473,7,7,Randomized controlled trial,Cardiovascular medicine
+29523652,2018,374,2603,10,9,Other or unspecified design,Cardiovascular medicine
+29733980,2018,166,939,5,5,Other or unspecified design,Cardiovascular medicine
+31139182,2018,369,2728,8,8,Cohort study,Respiratory medicine
+27752075,2018,287,2047,7,7,Randomized controlled trial,Pediatrics and neonatology
+30006780,2018,249,1688,6,6,Other or unspecified design,Neurology and psychiatry
+30102269,2018,311,2042,16,15,Other or unspecified design,Surgery and orthopedics
+28833311,2018,208,1618,5,5,Other or unspecified design,Oncology
+29716670,2018,218,1472,9,9,Randomized controlled trial,Gastroenterology and hepatobiliary medicine
+29866789,2018,309,2041,7,7,Randomized controlled trial,Gastroenterology and hepatobiliary medicine
+30005160,2018,311,2319,3,3,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+28826367,2018,271,1807,6,6,Other or unspecified design,Obstetrics and gynecology
+30973905,2018,310,2106,10,9,Randomized controlled trial,Oncology
+31581267,2018,320,2310,8,7,Diagnostic accuracy study,Oncology
+30129716,2018,760,4804,16,16,Diagnostic accuracy study,Endocrinology and metabolism
+30554960,2018,210,1324,6,6,Other or unspecified design,Infectious diseases
+29370259,2018,278,1941,11,11,Case-control study,Cardiovascular medicine
+29675752,2018,230,1525,14,14,Other or unspecified design,Pediatrics and neonatology
+29952424,2018,244,1626,9,9,Case report or case series,Endocrinology and metabolism
+30239383,2018,340,2602,3,3,Other or unspecified design,Other or general medicine
+31216539,2018,315,2188,3,3,Other or unspecified design,Endocrinology and metabolism
+29145212,2018,353,2349,16,16,Cross-sectional study,Pediatrics and neonatology
+30139419,2018,155,986,6,6,Other or unspecified design,Other or general medicine
+29463203,2018,204,1251,5,5,Cross-sectional study,Endocrinology and metabolism
+29271700,2018,254,1732,4,4,Other or unspecified design,Cardiovascular medicine
+29943271,2018,296,1869,7,7,Other or unspecified design,Cardiovascular medicine
+29566373,2018,306,2010,11,11,Cohort study,Cardiovascular medicine
+29370285,2018,263,1940,9,9,Nonrandomized intervention or clinical trial,Respiratory medicine
+29406841,2018,622,4222,33,32,Other or unspecified design,Endocrinology and metabolism
+29735346,2018,317,2042,10,10,Cohort study,Endocrinology and metabolism
+31341407,2018,297,2127,7,7,Cross-sectional study,Cardiovascular medicine
+30049184,2018,286,1903,10,10,Case-control study,Oncology
+31687090,2018,359,2234,9,9,Other or unspecified design,Cardiovascular medicine
+29742864,2018,194,1493,8,8,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+30086671,2019,267,1810,9,3,Meta-analysis or systematic review,Other or general medicine
+33221810,2019,262,1831,5,5,Other or unspecified design,Infectious diseases
+33162978,2019,306,2032,8,8,Nonrandomized intervention or clinical trial,Endocrinology and metabolism
+31877218,2019,265,1578,13,12,Other or unspecified design,Cardiovascular medicine
+31500574,2019,240,1513,21,20,Questionnaire or survey study,Cardiovascular medicine
+30874715,2019,244,1603,10,10,Cross-sectional study,Public health and epidemiology
+31747677,2019,335,2010,13,12,Randomized controlled trial,Endocrinology and metabolism
+31311177,2019,274,1846,3,3,Other or unspecified design,Cardiovascular medicine
+31476728,2019,372,2252,5,5,Other or unspecified design,Neurology and psychiatry
+31873806,2019,212,1695,8,8,Other or unspecified design,Surgery and orthopedics
+31647132,2019,362,2423,13,13,Diagnostic accuracy study,Cardiovascular medicine
+30776981,2019,252,1668,8,8,Other or unspecified design,Endocrinology and metabolism
+32187303,2019,461,3410,13,13,Other or unspecified design,Cardiovascular medicine
+30971773,2019,212,1483,4,4,Randomized controlled trial,Neurology and psychiatry
+31612540,2019,365,2412,6,6,Other or unspecified design,Other or general medicine
+31421670,2019,353,2459,8,7,Randomized controlled trial,Endocrinology and metabolism
+31045465,2019,255,1796,10,10,Randomized controlled trial,Cardiovascular medicine
+30699418,2019,367,2542,7,7,Other or unspecified design,Other or general medicine
+30980824,2019,296,1852,13,13,Other or unspecified design,Neurology and psychiatry
+32008502,2019,255,1817,5,5,Other or unspecified design,Endocrinology and metabolism
+29974227,2019,306,1989,10,8,Randomized controlled trial,Endocrinology and metabolism
+31257215,2019,300,1999,9,9,Other or unspecified design,Cardiovascular medicine
+31502117,2019,274,2004,4,4,Cohort study,Oncology
+30876541,2019,228,1593,12,12,Other or unspecified design,Other or general medicine
+31558056,2019,234,1576,4,4,Cohort study,Infectious diseases
+30902505,2019,321,2052,12,12,Other or unspecified design,Other or general medicine
+31886283,2019,214,1438,9,9,Cohort study,Endocrinology and metabolism
+30098847,2019,392,2638,14,14,Meta-analysis or systematic review,Endocrinology and metabolism
+31147209,2019,272,1920,10,10,Cohort study,Cardiovascular medicine
+30443983,2019,305,2265,15,15,Cohort study,Endocrinology and metabolism
+30451582,2019,262,1702,3,3,Other or unspecified design,Endocrinology and metabolism
+30322844,2019,268,1907,10,10,Cohort study,Cardiovascular medicine
+30762781,2019,276,1734,5,5,Cross-sectional study,Other or general medicine
+30722007,2019,309,2062,11,11,Meta-analysis or systematic review,Endocrinology and metabolism
+31408025,2019,341,2351,10,10,Other or unspecified design,Cardiovascular medicine
+31402292,2019,260,1800,8,8,Randomized controlled trial,Endocrinology and metabolism
+30651572,2019,223,1493,6,6,Other or unspecified design,Oncology
+31373163,2019,278,1844,3,3,Other or unspecified design,Oncology
+30415114,2019,262,1680,5,5,Cross-sectional study,Neurology and psychiatry
+31839588,2019,314,2099,3,3,Other or unspecified design,Cardiovascular medicine
+30730245,2019,240,1588,8,8,Other or unspecified design,Cardiovascular medicine
+31361089,2019,342,2308,9,9,Other or unspecified design,Endocrinology and metabolism
+31905374,2019,203,1394,7,7,Other or unspecified design,Infectious diseases
+30156306,2019,255,1833,7,7,Other or unspecified design,Pediatrics and neonatology
+31442786,2019,435,2841,5,5,Randomized controlled trial,Cardiovascular medicine
+31234815,2019,290,1876,13,13,Cross-sectional study,Endocrinology and metabolism
+31761894,2019,272,1906,3,3,Questionnaire or survey study,Cardiovascular medicine
+31439096,2019,213,1329,13,13,Questionnaire or survey study,Cardiovascular medicine
+31273018,2019,290,2096,15,15,Cross-sectional study,Cardiovascular medicine
+30451386,2019,256,1888,10,8,Cohort study,Endocrinology and metabolism
+31014348,2019,379,2448,4,4,Cohort study,Cardiovascular medicine
+31380575,2019,272,1917,3,3,Cohort study,Other or general medicine
+31326409,2019,243,1709,13,12,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+32909467,2019,376,2749,21,20,Randomized controlled trial,Oncology
+30241990,2019,292,2091,6,6,Randomized controlled trial,Neurology and psychiatry
+31866239,2019,264,1850,6,6,Questionnaire or survey study,Endocrinology and metabolism
+31650241,2019,266,1898,13,13,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+33426837,2019,238,1598,3,3,Other or unspecified design,Endocrinology and metabolism
+31625707,2019,399,2794,11,11,Other or unspecified design,Cardiovascular medicine
+30595443,2019,264,1795,8,8,Randomized controlled trial,Neurology and psychiatry
+31345012,2019,271,1862,11,11,Other or unspecified design,Oncology
+30525278,2019,242,1670,3,3,Other or unspecified design,Oncology
+32881912,2019,333,2285,3,3,Randomized controlled trial,Endocrinology and metabolism
+31860981,2019,368,2388,9,9,Randomized controlled trial,Cardiovascular medicine
+30359979,2019,230,1603,4,4,Other or unspecified design,Oncology
+31744381,2019,213,1515,4,4,Other or unspecified design,Other or general medicine
+29870598,2019,262,1644,13,13,Other or unspecified design,Cardiovascular medicine
+30368295,2019,199,1332,3,3,Other or unspecified design,Other or general medicine
+31136511,2019,323,2372,3,3,Questionnaire or survey study,Public health and epidemiology
+30382805,2019,379,2345,12,12,Other or unspecified design,Obstetrics and gynecology
+32252666,2020,272,1829,4,4,Cohort study,Infectious diseases
+31112107,2020,388,2786,4,4,Cohort study,Oncology
+32619075,2020,282,2000,3,3,Other or unspecified design,Obstetrics and gynecology
+34856707,2020,285,1966,9,9,Other or unspecified design,Public health and epidemiology
+34195270,2020,258,1805,10,8,Questionnaire or survey study,Infectious diseases
+31995418,2020,261,1889,5,5,Other or unspecified design,Respiratory medicine
+33628833,2020,387,2722,11,11,Meta-analysis or systematic review,Neurology and psychiatry
+31845316,2020,281,1859,13,13,Randomized controlled trial,Other or general medicine
+33040673,2020,255,1726,7,6,Other or unspecified design,Oncology
+33205295,2020,256,1938,8,8,Other or unspecified design,Cardiovascular medicine
+32840192,2020,281,1875,8,8,Cross-sectional study,Cardiovascular medicine
+32583052,2020,264,1877,17,17,Randomized controlled trial,Endocrinology and metabolism
+31758090,2020,217,1453,15,14,Other or unspecified design,Cardiovascular medicine
+32521877,2020,273,1791,7,7,Diagnostic accuracy study,Oncology
+31861969,2020,213,1452,13,13,Cross-sectional study,Endocrinology and metabolism
+33067536,2020,221,1447,13,13,Nonrandomized intervention or clinical trial,Cardiovascular medicine
+32285478,2020,225,1516,4,4,Other or unspecified design,Endocrinology and metabolism
+32014960,2020,205,1502,5,5,Other or unspecified design,Oncology
+33198837,2020,374,2584,4,4,Randomized controlled trial,Cardiovascular medicine
+33038369,2020,309,1913,10,10,Other or unspecified design,Other or general medicine
+32502549,2020,317,2127,8,8,Cross-sectional study,Public health and epidemiology
+33283757,2020,300,2063,10,10,Other or unspecified design,Cardiovascular medicine
+31972003,2020,283,1872,6,6,Other or unspecified design,Endocrinology and metabolism
+33141868,2020,330,2222,4,4,Other or unspecified design,Infectious diseases
+33143083,2020,462,3332,3,3,Meta-analysis or systematic review,Oncology
+32913029,2020,297,2028,15,14,Randomized controlled trial,Neurology and psychiatry
+33897615,2020,283,1864,19,19,Nonrandomized intervention or clinical trial,Endocrinology and metabolism
+33314205,2020,236,1514,5,5,Other or unspecified design,Other or general medicine
+32524766,2020,274,1737,12,11,Cohort study,Other or general medicine
+31854038,2020,331,2204,13,13,Other or unspecified design,Cardiovascular medicine
+33184794,2020,263,1895,6,6,Other or unspecified design,Neurology and psychiatry
+31308208,2020,267,1874,9,9,Other or unspecified design,Infectious diseases
+31436024,2020,251,1701,5,5,Meta-analysis or systematic review,Cardiovascular medicine
+32098806,2020,253,1646,6,6,Questionnaire or survey study,Cardiovascular medicine
+32234017,2020,365,2453,15,14,Cross-sectional study,Cardiovascular medicine
+31652351,2020,252,1611,15,15,Other or unspecified design,Neurology and psychiatry
+30983505,2020,261,1817,11,11,Other or unspecified design,Cardiovascular medicine
+33215855,2020,233,1552,12,12,Cohort study,Endocrinology and metabolism
+32293523,2020,297,1978,9,9,Randomized controlled trial,Other or general medicine
+32369821,2020,360,2426,7,7,Cohort study,Oncology
+33273510,2020,211,1479,4,4,Case-control study,Endocrinology and metabolism
+32506595,2020,295,1995,11,11,Questionnaire or survey study,Cardiovascular medicine
+32798344,2020,303,2055,5,5,Other or unspecified design,Other or general medicine
+33152009,2020,273,1710,15,15,Other or unspecified design,Other or general medicine
+32879949,2020,287,2061,13,13,Other or unspecified design,Cardiovascular medicine
+32366186,2020,261,1699,8,8,Other or unspecified design,Neurology and psychiatry
+32968008,2020,373,2706,5,5,Randomized controlled trial,Pediatrics and neonatology
+32605878,2020,242,1651,9,9,Other or unspecified design,Cardiovascular medicine
+33251824,2020,275,1737,6,6,Questionnaire or survey study,Endocrinology and metabolism
+32295945,2020,334,2214,6,6,Other or unspecified design,Pediatrics and neonatology
+34432850,2020,342,2684,8,8,Nonrandomized intervention or clinical trial,Cardiovascular medicine
+32259713,2020,268,2017,4,4,Cohort study,Cardiovascular medicine
+34858423,2020,359,2421,3,2,Randomized controlled trial,Infectious diseases
+32698860,2020,340,2196,6,6,Randomized controlled trial,Neurology and psychiatry
+32764552,2020,212,1489,3,3,Other or unspecified design,Respiratory medicine
+32057715,2020,296,2203,14,14,Cohort study,Oncology
+33264366,2020,337,2233,3,3,Cohort study,Public health and epidemiology
+33226837,2020,270,1642,17,17,Other or unspecified design,Endocrinology and metabolism
+32641110,2020,281,1851,13,13,Other or unspecified design,Infectious diseases
+31204518,2020,249,1797,5,5,Other or unspecified design,Cardiovascular medicine
+31937208,2020,300,2105,15,15,Other or unspecified design,Neurology and psychiatry
+32527135,2020,269,1904,9,9,Cross-sectional study,Surgery and orthopedics
+32590257,2020,279,1662,13,13,Cohort study,Cardiovascular medicine
+31757451,2020,325,2308,6,6,Other or unspecified design,Cardiovascular medicine
+33125936,2020,314,2214,7,7,Other or unspecified design,Pediatrics and neonatology
+33295926,2020,217,1497,6,6,Other or unspecified design,Endocrinology and metabolism
+33255240,2020,372,2338,3,3,Meta-analysis or systematic review,Respiratory medicine
+31983031,2020,222,1486,7,6,Randomized controlled trial,Cardiovascular medicine
+32755407,2020,280,1788,17,16,Other or unspecified design,Cardiovascular medicine
+32464368,2020,332,2337,10,10,Other or unspecified design,Oncology
+32195649,2020,299,2036,22,22,Meta-analysis or systematic review,Infectious diseases
+32575441,2020,237,1789,4,4,Randomized controlled trial,Other or general medicine
+34435513,2021,407,2494,14,14,Randomized controlled trial,Endocrinology and metabolism
+34844247,2021,341,2292,13,13,Other or unspecified design,Oncology
+33461926,2021,275,1830,13,13,Cohort study,Endocrinology and metabolism
+33998179,2021,316,2059,14,13,Randomized controlled trial,Surgery and orthopedics
+34836977,2021,236,1573,19,18,Cross-sectional study,Neurology and psychiatry
+33685807,2021,223,1691,5,5,Cross-sectional study,Cardiovascular medicine
+34965524,2021,280,1978,4,4,Other or unspecified design,Other or general medicine
+34682562,2021,345,2165,10,10,Questionnaire or survey study,Public health and epidemiology
+34727006,2021,226,1579,4,4,Questionnaire or survey study,Cardiovascular medicine
+34149015,2021,263,1839,3,3,Other or unspecified design,Other or general medicine
+34120843,2021,383,2485,20,18,Other or unspecified design,Cardiovascular medicine
+35936064,2021,277,1880,6,6,Other or unspecified design,Other or general medicine
+34959891,2021,330,2413,3,3,Other or unspecified design,Cardiovascular medicine
+34602066,2021,319,2256,4,4,Other or unspecified design,Neurology and psychiatry
+35197964,2021,264,1867,25,25,Randomized controlled trial,Cardiovascular medicine
+34279727,2021,291,1995,3,3,Cross-sectional study,Cardiovascular medicine
+32892443,2021,258,1678,17,17,Diagnostic accuracy study,Obstetrics and gynecology
+34902035,2021,484,3269,15,15,Cohort study,Neurology and psychiatry
+33453470,2021,370,2434,22,22,Nonrandomized intervention or clinical trial,Oncology
+33451345,2021,340,2714,14,13,Randomized controlled trial,Oncology
+34362289,2021,171,1074,9,9,Other or unspecified design,Other or general medicine
+34773606,2021,276,2155,6,6,Randomized controlled trial,Cardiovascular medicine
+34879143,2021,421,2733,17,16,Randomized controlled trial,Cardiovascular medicine
+34641843,2021,295,1924,17,17,Other or unspecified design,Infectious diseases
+33359042,2021,274,1838,6,6,Randomized controlled trial,Other or general medicine
+33207137,2021,321,2452,14,14,Other or unspecified design,Oncology
+34952630,2021,438,2833,13,13,Other or unspecified design,Other or general medicine
+36619539,2021,275,2067,5,5,Meta-analysis or systematic review,Endocrinology and metabolism
+32790581,2021,288,1834,13,13,Other or unspecified design,Respiratory medicine
+35651857,2021,205,1424,5,5,Questionnaire or survey study,Endocrinology and metabolism
+34134571,2021,308,2067,4,4,Other or unspecified design,Other or general medicine
+33097320,2021,319,2125,16,15,Other or unspecified design,Respiratory medicine
+33183800,2021,311,2288,9,9,Questionnaire or survey study,Other or general medicine
+33216633,2021,290,1885,15,15,Questionnaire or survey study,Oncology
+34839048,2021,312,2161,3,3,Other or unspecified design,Oncology
+33336475,2021,337,2739,4,4,Cross-sectional study,Neurology and psychiatry
+33276028,2021,248,1872,3,3,Case report or case series,Cardiovascular medicine
+34479076,2021,298,2272,10,10,Cross-sectional study,Respiratory medicine
+34218990,2021,261,1812,14,14,Other or unspecified design,Endocrinology and metabolism
+32891422,2021,305,2073,20,20,Cohort study,Public health and epidemiology
+34480935,2021,284,1813,12,12,Other or unspecified design,Oncology
+34932136,2021,272,1836,11,10,Cohort study,Cardiovascular medicine
+33984862,2021,225,1563,9,8,Cohort study,Oncology
+33232769,2021,243,1650,3,3,Other or unspecified design,Cardiovascular medicine
+33861472,2021,270,2002,8,8,Cohort study,Endocrinology and metabolism
+34418574,2021,348,2387,4,4,Other or unspecified design,Neurology and psychiatry
+32866540,2021,314,2355,4,4,Cohort study,Cardiovascular medicine
+34037224,2021,287,1900,8,8,Nonrandomized intervention or clinical trial,Oncology
+34928990,2021,330,2421,5,4,Randomized controlled trial,Respiratory medicine
+33462622,2021,274,1934,10,10,Randomized controlled trial,Endocrinology and metabolism
+33323473,2021,287,2221,9,9,Randomized controlled trial,Pediatrics and neonatology
+33499376,2021,260,1688,3,3,Randomized controlled trial,Cardiovascular medicine
+33619240,2021,312,2112,7,7,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+33899644,2021,311,2050,8,8,Other or unspecified design,Obstetrics and gynecology
+34284809,2021,334,2130,9,9,Other or unspecified design,Cardiovascular medicine
+34132197,2021,314,2282,8,8,Meta-analysis or systematic review,Public health and epidemiology
+34673771,2021,304,2244,9,9,Randomized controlled trial,Neurology and psychiatry
+33422435,2021,273,1818,5,5,Other or unspecified design,Cardiovascular medicine
+33314365,2021,271,1846,3,3,Other or unspecified design,Cardiovascular medicine
+33278392,2021,255,1831,3,3,Other or unspecified design,Endocrinology and metabolism
+34154986,2021,264,1810,8,8,Other or unspecified design,Oncology
+33775664,2021,221,1547,4,4,Cross-sectional study,Cardiovascular medicine
+33197598,2021,294,2099,6,6,Meta-analysis or systematic review,Endocrinology and metabolism
+34103017,2021,289,2102,3,3,Randomized controlled trial,Gastroenterology and hepatobiliary medicine
+32163139,2021,295,1945,7,6,Randomized controlled trial,Cardiovascular medicine
+33966434,2021,293,2040,4,4,Case report or case series,Oncology
+34157754,2021,522,4147,10,10,Other or unspecified design,Cardiovascular medicine
+33483960,2021,268,1936,5,5,Other or unspecified design,Other or general medicine
+34663537,2021,271,1976,5,5,Cohort study,Cardiovascular medicine
+33396057,2021,258,1840,20,20,Other or unspecified design,Cardiovascular medicine
+32883514,2021,361,2565,8,8,Randomized controlled trial,Endocrinology and metabolism
+35595653,2022,288,1910,8,8,Other or unspecified design,Endocrinology and metabolism
+35915307,2022,416,2635,7,7,Other or unspecified design,Other or general medicine
+35383798,2022,172,1186,4,4,Other or unspecified design,Other or general medicine
+35760370,2022,266,1846,6,6,Cohort study,Oncology
+35489711,2022,247,1707,12,12,Cohort study,Endocrinology and metabolism
+35074271,2022,359,2423,12,12,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+35588309,2022,274,1857,6,6,Case report or case series,Infectious diseases
+35977712,2022,294,2042,4,4,Other or unspecified design,Cardiovascular medicine
+36549733,2022,314,2239,3,3,Cross-sectional study,Neurology and psychiatry
+35690364,2022,209,1413,5,5,Cohort study,Infectious diseases
+38813505,2022,374,2221,4,4,Case-control study,Endocrinology and metabolism
+35453165,2022,271,1760,3,3,Other or unspecified design,Neurology and psychiatry
+33833135,2022,283,1895,8,7,Cross-sectional study,Oncology
+36149854,2022,274,1836,7,7,Cross-sectional study,Endocrinology and metabolism
+36216658,2022,458,3099,28,25,Randomized controlled trial,Oncology
+32951514,2022,306,2295,3,3,Randomized controlled trial,Cardiovascular medicine
+35022880,2022,255,1604,14,14,Other or unspecified design,Other or general medicine
+35416971,2022,337,2473,15,15,Nonrandomized intervention or clinical trial,Infectious diseases
+34529554,2022,312,2128,4,4,Other or unspecified design,Cardiovascular medicine
+35120370,2022,241,1600,4,4,Meta-analysis or systematic review,Cardiovascular medicine
+35644747,2022,276,1939,9,9,Cohort study,Cardiovascular medicine
+36459447,2022,333,2423,6,6,Other or unspecified design,Neurology and psychiatry
+36106643,2022,181,1202,7,7,Other or unspecified design,Oncology
+35415774,2022,289,1830,4,4,Cohort study,Respiratory medicine
+34989099,2022,260,1775,4,4,Cross-sectional study,Cardiovascular medicine
+36560773,2022,237,1509,7,7,Other or unspecified design,Endocrinology and metabolism
+35859037,2022,198,1343,3,3,Meta-analysis or systematic review,Endocrinology and metabolism
+36537399,2022,268,1904,3,3,Randomized controlled trial,Cardiovascular medicine
+36477479,2022,445,2884,15,15,Randomized controlled trial,Cardiovascular medicine
+36331151,2022,273,1766,7,7,Other or unspecified design,Surgery and orthopedics
+35131378,2022,225,1728,8,8,Randomized controlled trial,Endocrinology and metabolism
+35609943,2022,326,2239,23,23,Randomized controlled trial,Cardiovascular medicine
+35761296,2022,235,1566,7,6,Cross-sectional study,Cardiovascular medicine
+35225029,2022,246,1726,10,10,Other or unspecified design,Oncology
+35500806,2022,260,1771,3,3,Other or unspecified design,Neurology and psychiatry
+35914803,2022,199,1369,5,5,Cohort study,Endocrinology and metabolism
+36054347,2022,329,2059,3,3,Other or unspecified design,Endocrinology and metabolism
+34560136,2022,251,1814,9,9,Randomized controlled trial,Other or general medicine
+37997724,2022,263,1822,6,6,Cohort study,Oncology
+36314316,2022,305,2013,16,16,Other or unspecified design,Respiratory medicine
+36307473,2022,287,1825,5,4,Other or unspecified design,Respiratory medicine
+36188426,2022,417,3065,7,6,Meta-analysis or systematic review,Neurology and psychiatry
+36470023,2022,254,1919,4,4,Cohort study,Oncology
+34338783,2022,311,2161,12,12,Cohort study,Endocrinology and metabolism
+34918443,2022,268,1902,10,10,Randomized controlled trial,Pediatrics and neonatology
+36156129,2022,256,1722,5,5,Other or unspecified design,Oncology
+34253484,2022,237,1586,12,12,Cohort study,Cardiovascular medicine
+35787198,2022,342,2422,6,6,Other or unspecified design,Oncology
+34656632,2022,315,2174,13,13,Cohort study,Obstetrics and gynecology
+36376895,2022,313,2080,5,5,Questionnaire or survey study,Cardiovascular medicine
+34569768,2022,257,1864,5,5,Cohort study,Cardiovascular medicine
+35421008,2022,283,2036,4,4,Randomized controlled trial,Surgery and orthopedics
+34767053,2022,258,1796,3,3,Other or unspecified design,Oncology
+35336475,2022,331,2213,9,8,Cohort study,Neurology and psychiatry
+36401387,2022,262,1739,9,9,Cohort study,Cardiovascular medicine
+35922522,2022,367,2347,10,10,Randomized controlled trial,Respiratory medicine
+35968572,2022,239,1479,3,3,Other or unspecified design,Oncology
+36115821,2022,398,2476,17,17,Cross-sectional study,Surgery and orthopedics
+34713519,2022,192,1292,6,6,Other or unspecified design,Oncology
+33242911,2022,296,1981,7,7,Other or unspecified design,Endocrinology and metabolism
+35049140,2022,259,1867,8,8,Cohort study,Cardiovascular medicine
+36791118,2022,258,1852,5,5,Other or unspecified design,Infectious diseases
+35534202,2022,263,1818,24,24,Cross-sectional study,Endocrinology and metabolism
+35946679,2022,277,1880,11,10,Cohort study,Gastroenterology and hepatobiliary medicine
+36156470,2022,377,2388,13,13,Other or unspecified design,Oncology
+36048745,2022,269,1841,12,12,Cohort study,Public health and epidemiology
+35984124,2022,281,1989,13,13,Cross-sectional study,Cardiovascular medicine
+35051929,2022,382,2569,5,5,Other or unspecified design,Other or general medicine
+36053809,2022,270,1806,9,9,Other or unspecified design,Endocrinology and metabolism
+36223114,2022,406,2880,12,12,Randomized controlled trial,Neurology and psychiatry
+36670543,2023,277,1942,3,3,Cohort study,Oncology
+37931637,2023,335,2345,10,10,Meta-analysis or systematic review,Endocrinology and metabolism
+37269194,2023,265,1983,16,16,Nonrandomized intervention or clinical trial,Oncology
+37150513,2023,277,2052,8,8,Cohort study,Oncology
+36780883,2023,232,1585,10,10,Cohort study,Surgery and orthopedics
+36901590,2023,277,1738,16,16,Other or unspecified design,Cardiovascular medicine
+36966299,2023,344,2525,6,6,Cohort study,Cardiovascular medicine
+36990622,2023,471,3183,25,25,Cohort study,Infectious diseases
+36349412,2023,389,2639,6,6,Questionnaire or survey study,Gastroenterology and hepatobiliary medicine
+37678881,2023,294,1938,11,10,Cohort study,Neurology and psychiatry
+37750619,2023,269,1852,6,6,Randomized controlled trial,Surgery and orthopedics
+37704402,2023,164,1068,3,3,Cohort study,Infectious diseases
+39633899,2023,308,2195,7,7,Other or unspecified design,Infectious diseases
+38110526,2023,273,1890,5,5,Qualitative study,Other or general medicine
+36946859,2023,523,3857,7,7,Cohort study,Cardiovascular medicine
+36730532,2023,269,1904,7,7,Other or unspecified design,Pediatrics and neonatology
+36670229,2023,265,1787,8,8,Cohort study,Cardiovascular medicine
+35913567,2023,313,2185,9,9,Cohort study,Pediatrics and neonatology
+39411718,2023,267,1736,10,10,Cohort study,Oncology
+37814295,2023,485,3293,16,16,Other or unspecified design,Neurology and psychiatry
+37603978,2023,306,2510,6,6,Questionnaire or survey study,Gastroenterology and hepatobiliary medicine
+37960912,2023,352,2397,11,11,Randomized controlled trial,Cardiovascular medicine
+36287389,2023,272,1877,7,6,Randomized controlled trial,Neurology and psychiatry
+37066819,2023,270,1876,13,13,Cross-sectional study,Endocrinology and metabolism
+38304373,2023,260,1868,10,10,Other or unspecified design,Respiratory medicine
+36331692,2023,366,2615,6,6,Other or unspecified design,Oncology
+36731865,2023,284,2074,14,14,Meta-analysis or systematic review,Cardiovascular medicine
+37767795,2023,237,1624,4,4,Other or unspecified design,Other or general medicine
+40303273,2023,301,2080,18,15,Randomized controlled trial,Endocrinology and metabolism
+38151676,2023,396,2591,18,18,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+36440921,2023,272,1788,7,7,Cohort study,Endocrinology and metabolism
+36503410,2023,270,2005,5,5,Questionnaire or survey study,Cardiovascular medicine
+36808006,2023,315,2100,13,13,Other or unspecified design,Cardiovascular medicine
+37409838,2023,197,1253,11,11,Randomized controlled trial,Cardiovascular medicine
+36829278,2023,355,2432,3,3,Other or unspecified design,Cardiovascular medicine
+39386205,2023,243,1673,12,12,Other or unspecified design,Surgery and orthopedics
+36066791,2023,290,1895,7,7,Other or unspecified design,Cardiovascular medicine
+37326573,2023,274,1823,9,8,Diagnostic accuracy study,Oncology
+38151184,2023,319,2329,25,25,Other or unspecified design,Oncology
+37629732,2023,389,2515,21,20,Cohort study,Oncology
+37516706,2023,365,2356,6,6,Other or unspecified design,Other or general medicine
+37642988,2023,197,1364,3,3,Case report or case series,Oncology
+37479162,2023,314,2248,3,3,Randomized controlled trial,Cardiovascular medicine
+37677854,2023,251,1725,4,4,Other or unspecified design,Cardiovascular medicine
+37282362,2023,265,1726,6,6,Case report or case series,Cardiovascular medicine
+34251756,2023,278,1837,17,16,Meta-analysis or systematic review,Cardiovascular medicine
+36738917,2023,270,1808,6,6,Randomized controlled trial,Other or general medicine
+36178302,2023,393,2520,3,3,Meta-analysis or systematic review,Endocrinology and metabolism
+37263378,2023,231,1712,9,8,Cohort study,Neurology and psychiatry
+37752379,2023,654,4750,10,10,Cohort study,Cardiovascular medicine
+36746392,2023,296,2014,4,4,Randomized controlled trial,Endocrinology and metabolism
+37042324,2023,339,1936,18,18,Other or unspecified design,Endocrinology and metabolism
+34126648,2023,327,2126,10,10,Cohort study,Pediatrics and neonatology
+37344040,2023,300,2136,7,7,Nonrandomized intervention or clinical trial,Cardiovascular medicine
+35567698,2023,267,1875,11,11,Cohort study,Cardiovascular medicine
+38085623,2023,312,2208,3,3,Questionnaire or survey study,Cardiovascular medicine
+37286557,2023,238,1677,5,5,Cohort study,Oncology
+37820975,2023,333,2351,3,3,Other or unspecified design,Neurology and psychiatry
+36625063,2023,261,1829,5,5,Cohort study,Other or general medicine
+37142050,2023,383,2709,9,9,Cohort study,Obstetrics and gynecology
+37078587,2023,282,1917,9,9,Other or unspecified design,Oncology
+38147760,2023,285,1926,3,3,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+37057787,2023,312,2171,14,14,Questionnaire or survey study,Cardiovascular medicine
+37707571,2023,284,1991,8,8,Other or unspecified design,Neurology and psychiatry
+37910103,2023,370,2342,13,13,Meta-analysis or systematic review,Oncology
+36966525,2023,309,2056,10,9,Other or unspecified design,Cardiovascular medicine
+37685884,2023,322,2345,3,3,Nonrandomized intervention or clinical trial,Oncology
+36227238,2023,318,1948,5,5,Randomized controlled trial,Cardiovascular medicine
+38155955,2023,423,2602,15,15,Cohort study,Obstetrics and gynecology
+37146193,2023,201,1349,9,9,Other or unspecified design,Infectious diseases
+39048294,2024,262,1894,9,9,Other or unspecified design,Cardiovascular medicine
+38631235,2024,230,1623,3,3,Diagnostic accuracy study,Obstetrics and gynecology
+38693579,2024,253,1728,3,3,Nonrandomized intervention or clinical trial,Pediatrics and neonatology
+38310735,2024,265,1773,3,3,Cohort study,Endocrinology and metabolism
+38413134,2024,273,1978,4,4,Meta-analysis or systematic review,Cardiovascular medicine
+38762324,2024,901,6217,25,25,Other or unspecified design,Endocrinology and metabolism
+40833946,2024,376,2584,14,14,Other or unspecified design,Cardiovascular medicine
+38104557,2024,312,2231,7,6,Other or unspecified design,Respiratory medicine
+38182332,2024,331,2521,7,7,Other or unspecified design,Other or general medicine
+39172128,2024,203,1401,9,8,Case report or case series,Gastroenterology and hepatobiliary medicine
+38117095,2024,304,1955,11,11,Nonrandomized intervention or clinical trial,Cardiovascular medicine
+39697671,2024,240,1691,5,5,Other or unspecified design,Cardiovascular medicine
+38758293,2024,260,1681,13,13,Cross-sectional study,Cardiovascular medicine
+38308612,2024,205,1430,4,4,Other or unspecified design,Cardiovascular medicine
+40365853,2024,259,1728,6,5,Other or unspecified design,Pediatrics and neonatology
+41121624,2024,291,2125,13,13,Nonrandomized intervention or clinical trial,Oncology
+39719898,2024,286,2009,6,6,Other or unspecified design,Surgery and orthopedics
+38727853,2024,260,1796,8,8,Other or unspecified design,Oncology
+39443545,2024,223,1633,8,8,Cohort study,Oncology
+40666154,2024,440,2964,28,21,Meta-analysis or systematic review,Neurology and psychiatry
+39407266,2024,249,1859,10,10,Cohort study,Cardiovascular medicine
+40417052,2024,420,2797,6,5,Cross-sectional study,Cardiovascular medicine
+39090525,2024,264,1783,13,12,Cross-sectional study,Endocrinology and metabolism
+38179719,2024,367,2318,9,9,Randomized controlled trial,Cardiovascular medicine
+38600553,2024,222,1593,4,4,Cross-sectional study,Cardiovascular medicine
+38680050,2024,290,1908,16,16,Nonrandomized intervention or clinical trial,Cardiovascular medicine
+39738934,2024,276,1963,13,13,Other or unspecified design,Oncology
+38262129,2024,288,2065,5,5,Other or unspecified design,Infectious diseases
+37820770,2024,333,2211,5,4,Randomized controlled trial,Oncology
+38172896,2024,340,2243,10,9,Cohort study,Cardiovascular medicine
+39058801,2024,366,2371,16,16,Cohort study,Oncology
+38165475,2024,168,1275,3,3,Qualitative study,Cardiovascular medicine
+39093729,2024,250,1613,4,4,Other or unspecified design,Cardiovascular medicine
+37659100,2024,270,1795,15,15,Cohort study,Cardiovascular medicine
+38777581,2024,273,1898,4,4,Cohort study,Respiratory medicine
+39058804,2024,285,1882,3,3,Cohort study,Endocrinology and metabolism
+39487494,2024,285,1959,5,5,Cohort study,Endocrinology and metabolism
+39658120,2024,233,1703,4,4,Cohort study,Other or general medicine
+39743685,2024,255,1668,4,4,Randomized controlled trial,Cardiovascular medicine
+36300296,2024,266,1887,4,4,Cohort study,Cardiovascular medicine
+38381960,2024,324,2314,3,3,Randomized controlled trial,Surgery and orthopedics
+38657752,2024,271,1758,12,12,Other or unspecified design,Infectious diseases
+38725071,2024,183,1276,5,5,Case report or case series,Oncology
+38439661,2024,227,1585,12,12,Other or unspecified design,Cardiovascular medicine
+38671217,2024,291,1973,8,8,Cohort study,Endocrinology and metabolism
+39182648,2024,225,1574,7,7,Cohort study,Oncology
+39586146,2024,322,2188,3,3,Cohort study,Cardiovascular medicine
+39718496,2024,352,2223,17,15,Other or unspecified design,Oncology
+38643093,2024,279,1697,4,4,Other or unspecified design,Cardiovascular medicine
+38934290,2024,268,1875,4,4,Other or unspecified design,Cardiovascular medicine
+38501177,2024,296,2014,12,11,Randomized controlled trial,Endocrinology and metabolism
+37336802,2024,279,1981,5,5,Cohort study,Public health and epidemiology
+38674880,2024,226,1641,3,3,Other or unspecified design,Endocrinology and metabolism
+39609583,2024,213,1502,14,14,Other or unspecified design,Endocrinology and metabolism
+38230462,2024,285,1871,7,7,Other or unspecified design,Oncology
+38938520,2024,327,2400,12,12,Other or unspecified design,Cardiovascular medicine
+39982938,2024,280,1923,5,5,Randomized controlled trial,Cardiovascular medicine
+39973479,2024,481,3379,11,11,Randomized controlled trial,Neurology and psychiatry
+39648043,2024,347,2359,10,10,Cohort study,Endocrinology and metabolism
+39090195,2024,212,1387,6,6,Other or unspecified design,Oncology
+38165333,2024,409,2795,21,19,Randomized controlled trial,Pediatrics and neonatology
+38546428,2024,294,1892,14,12,Randomized controlled trial,Pediatrics and neonatology
+39182228,2024,259,1637,19,19,Other or unspecified design,Endocrinology and metabolism
+39585784,2024,351,2433,8,8,Questionnaire or survey study,Respiratory medicine
+38261444,2024,272,1866,8,8,Cohort study,Oncology
+37946262,2024,268,1952,9,9,Other or unspecified design,Pediatrics and neonatology
+39191087,2024,298,1786,4,4,Cohort study,Endocrinology and metabolism
+38610024,2024,441,2997,7,6,Nonrandomized intervention or clinical trial,Endocrinology and metabolism
+39613527,2024,322,2164,14,13,Cohort study,Infectious diseases
+38498483,2024,170,1182,8,7,Cross-sectional study,Endocrinology and metabolism
+38880699,2024,313,2394,16,15,Other or unspecified design,Endocrinology and metabolism
+39356955,2024,335,2406,14,11,Other or unspecified design,Oncology
+40133853,2025,314,2292,4,4,Nonrandomized intervention or clinical trial,Cardiovascular medicine
+40986558,2025,272,2053,14,14,Cohort study,Obstetrics and gynecology
+40029938,2025,342,2388,18,18,Diagnostic accuracy study,Pediatrics and neonatology
+39196279,2025,239,1687,10,10,Other or unspecified design,Endocrinology and metabolism
+41127367,2025,292,2225,19,18,Randomized controlled trial,Endocrinology and metabolism
+39693929,2025,222,1431,10,9,Randomized controlled trial,Endocrinology and metabolism
+41423539,2025,308,2097,7,7,Randomized controlled trial,Neurology and psychiatry
+39854039,2025,290,2118,6,6,Questionnaire or survey study,Endocrinology and metabolism
+40878609,2025,438,3094,9,9,Other or unspecified design,Cardiovascular medicine
+40759002,2025,169,1258,4,4,Other or unspecified design,Endocrinology and metabolism
+42599183,2025,191,1382,7,7,Cross-sectional study,Obstetrics and gynecology
+40762544,2025,319,2432,14,14,Randomized controlled trial,Oncology
+39808151,2025,510,3268,10,10,Other or unspecified design,Infectious diseases
+40752653,2025,364,2243,27,26,Randomized controlled trial,Oncology
+40587963,2025,293,1988,9,9,Case report or case series,Pediatrics and neonatology
+40616984,2025,256,1737,6,6,Other or unspecified design,Oncology
+39928769,2025,227,1565,5,5,Questionnaire or survey study,Other or general medicine
+39898942,2025,565,3638,7,7,Cohort study,Cardiovascular medicine
+41364288,2025,198,1536,4,4,Cohort study,Pediatrics and neonatology
+38715188,2025,248,1889,6,6,Other or unspecified design,Neurology and psychiatry
+41131530,2025,359,2533,9,9,Questionnaire or survey study,Cardiovascular medicine
+40394862,2025,272,1857,7,7,Cross-sectional study,Cardiovascular medicine
+38985293,2025,322,1975,4,3,Cohort study,Cardiovascular medicine
+40518344,2025,290,1910,6,6,Questionnaire or survey study,Cardiovascular medicine
+40518107,2025,286,2062,8,8,Cohort study,Cardiovascular medicine
+41144235,2025,294,2012,5,5,Cohort study,Endocrinology and metabolism
+40992785,2025,355,2536,12,12,Other or unspecified design,Oncology
+41314197,2025,263,2085,14,14,Other or unspecified design,Oncology
+40293460,2025,250,1554,3,3,Cross-sectional study,Endocrinology and metabolism
+41266573,2025,306,2163,12,12,Other or unspecified design,Endocrinology and metabolism
+40311690,2025,224,1439,4,4,Other or unspecified design,Endocrinology and metabolism
+40434298,2025,242,1747,6,6,Other or unspecified design,Oncology
+39871549,2025,297,2157,13,13,Other or unspecified design,Other or general medicine
+40366126,2025,202,1508,3,3,Cross-sectional study,Public health and epidemiology
+40982282,2025,434,2921,10,10,Randomized controlled trial,Other or general medicine
+41007605,2025,348,2241,8,8,Randomized controlled trial,Cardiovascular medicine
+40186180,2025,311,2193,5,5,Meta-analysis or systematic review,Cardiovascular medicine
+39797600,2025,334,2045,12,12,Other or unspecified design,Neurology and psychiatry
+41120084,2025,304,2226,26,26,Other or unspecified design,Endocrinology and metabolism
+41352472,2025,308,2207,13,13,Cohort study,Cardiovascular medicine
+39362395,2025,404,2894,6,6,Meta-analysis or systematic review,Other or general medicine
+40172208,2025,303,2168,9,9,Nonrandomized intervention or clinical trial,Cardiovascular medicine
+41155843,2025,262,1778,10,10,Cross-sectional study,Endocrinology and metabolism
+40083185,2025,479,3298,15,14,Randomized controlled trial,Neurology and psychiatry
+40398311,2025,264,1879,4,4,Cross-sectional study,Neurology and psychiatry
+39147699,2025,197,1466,3,3,Case report or case series,Cardiovascular medicine
+40876064,2025,287,2070,4,4,Cohort study,Oncology
+38109672,2025,247,1632,3,3,Other or unspecified design,Pediatrics and neonatology
+39725555,2025,319,2212,9,8,Questionnaire or survey study,Cardiovascular medicine
+41271435,2025,308,2052,13,13,Cohort study,Oncology
+41254681,2025,338,2342,7,6,Cohort study,Other or general medicine
+40229569,2025,283,1790,7,6,Other or unspecified design,Pediatrics and neonatology
+40045322,2025,271,1885,3,3,Diagnostic accuracy study,Oncology
+40696377,2025,167,1331,7,7,Case report or case series,Obstetrics and gynecology
+39995526,2025,254,1722,5,5,Other or unspecified design,Endocrinology and metabolism
+40720140,2025,386,2943,20,20,Meta-analysis or systematic review,Cardiovascular medicine
+40307716,2025,213,1497,3,3,Cohort study,Endocrinology and metabolism
+41319070,2025,272,1995,9,9,Cross-sectional study,Cardiovascular medicine
+40132177,2025,730,4960,12,12,Cross-sectional study,Cardiovascular medicine
+40211489,2025,306,2268,7,7,Randomized controlled trial,Cardiovascular medicine
+40198009,2025,356,2667,13,13,Questionnaire or survey study,Neurology and psychiatry
+40914445,2025,385,2640,4,4,Randomized controlled trial,Cardiovascular medicine
+40289329,2025,268,1873,8,8,Cross-sectional study,Endocrinology and metabolism
+39817972,2025,305,2018,8,8,Other or unspecified design,Other or general medicine
+39349250,2025,282,1982,4,4,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+40148457,2025,309,1870,18,13,Other or unspecified design,Endocrinology and metabolism
+41580215,2026,223,1678,16,16,Randomized controlled trial,Neurology and psychiatry
+41603893,2026,238,1763,5,5,Other or unspecified design,Oncology
+40500517,2026,253,1849,12,12,Cohort study,Other or general medicine
+42178411,2026,292,2163,7,7,Nonrandomized intervention or clinical trial,Cardiovascular medicine
+41935111,2026,267,2041,11,11,Cross-sectional study,Endocrinology and metabolism
+41494879,2026,280,1905,9,9,Meta-analysis or systematic review,Cardiovascular medicine
+42228437,2026,1330,9290,28,28,Randomized controlled trial,Gastroenterology and hepatobiliary medicine
+41770552,2026,363,2309,11,11,Other or unspecified design,Cardiovascular medicine
+41291256,2026,286,1940,8,8,Other or unspecified design,Respiratory medicine
+42323240,2026,276,2061,10,10,Questionnaire or survey study,Cardiovascular medicine
+41397888,2026,305,2216,4,4,Meta-analysis or systematic review,Endocrinology and metabolism
+41604197,2026,351,2632,16,16,Cohort study,Cardiovascular medicine
+42057762,2026,277,1871,13,12,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+41496444,2026,290,2160,5,5,Other or unspecified design,Pediatrics and neonatology
+42486799,2026,284,1959,12,12,Nonrandomized intervention or clinical trial,Gastroenterology and hepatobiliary medicine
+42332055,2026,192,1443,4,4,Other or unspecified design,Other or general medicine
+42587182,2026,272,1859,9,9,Cohort study,Pediatrics and neonatology
+41975326,2026,176,1309,9,9,Cohort study,Gastroenterology and hepatobiliary medicine
+40923390,2026,1064,6918,7,7,Case report or case series,Pediatrics and neonatology
+42149735,2026,270,1929,8,8,Cohort study,Gastroenterology and hepatobiliary medicine
+42512870,2026,479,3659,37,34,Cross-sectional study,Endocrinology and metabolism
+42361000,2026,263,1963,6,6,Meta-analysis or systematic review,Other or general medicine
+41568978,2026,290,2230,9,9,Cross-sectional study,Oncology
+42329735,2026,215,1618,5,5,Other or unspecified design,Oncology
+41996634,2026,381,2755,4,4,Cohort study,Cardiovascular medicine
+41694524,2026,406,2828,12,12,Cohort study,Endocrinology and metabolism
+41913103,2026,258,1812,4,4,Cohort study,Cardiovascular medicine
+42507445,2026,447,2937,24,22,Randomized controlled trial,Cardiovascular medicine
+42143299,2026,217,1679,10,10,Other or unspecified design,Surgery and orthopedics
+42390040,2026,369,2452,12,12,Other or unspecified design,Neurology and psychiatry
+41530787,2026,311,2128,4,4,Other or unspecified design,Other or general medicine
+41652838,2026,229,1651,3,3,Other or unspecified design,Oncology
+41492916,2026,246,1728,3,3,Randomized controlled trial,Other or general medicine
+41954898,2026,429,3027,16,16,Randomized controlled trial,Other or general medicine
+42050503,2026,187,1357,4,4,Case report or case series,Oncology
+42047198,2026,278,2169,5,5,Randomized controlled trial,Cardiovascular medicine
+42056835,2026,272,1854,6,5,Other or unspecified design,Cardiovascular medicine
+42135636,2026,305,2181,11,11,Cross-sectional study,Cardiovascular medicine
+41283821,2026,267,2103,6,6,Cohort study,Cardiovascular medicine
+41808096,2026,326,2259,16,16,Other or unspecified design,Cardiovascular medicine
+41824426,2026,355,2440,13,13,Cross-sectional study,Cardiovascular medicine
+41697086,2026,285,2232,16,13,Other or unspecified design,Public health and epidemiology
+41492129,2026,336,2373,10,10,Other or unspecified design,Cardiovascular medicine
+41951765,2026,307,2322,3,2,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+42126929,2026,205,1391,3,3,Other or unspecified design,Other or general medicine
+40111443,2026,278,1810,13,13,Cohort study,Cardiovascular medicine
+40904065,2026,209,1623,5,5,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+41482572,2026,133,835,5,5,Other or unspecified design,Respiratory medicine
+41091793,2026,264,1814,10,10,Other or unspecified design,Cardiovascular medicine
+41920061,2026,228,1458,5,5,Cross-sectional study,Surgery and orthopedics
+42304127,2026,260,1836,14,14,Cohort study,Cardiovascular medicine
+41534581,2026,309,2361,7,7,Other or unspecified design,Neurology and psychiatry
+41252770,2026,402,2664,5,4,Randomized controlled trial,Cardiovascular medicine
+42341802,2026,543,3706,37,37,Cohort study,Cardiovascular medicine
+42566360,2026,310,2218,5,5,Randomized controlled trial,Cardiovascular medicine
+41915174,2026,283,1951,4,4,Cohort study,Other or general medicine
+41645633,2026,285,1867,12,12,Cross-sectional study,Cardiovascular medicine
+41086367,2026,291,1962,8,8,Other or unspecified design,Oncology
+42204710,2026,257,1818,6,6,Case report or case series,Cardiovascular medicine
+42025267,2026,204,1618,3,3,Other or unspecified design,Gastroenterology and hepatobiliary medicine
+42032604,2026,364,2792,10,10,Cohort study,Surgery and orthopedics
+42299478,2026,220,1626,7,7,Cohort study,Cardiovascular medicine
+41811754,2026,266,2051,9,9,Cohort study,Pediatrics and neonatology
+42244119,2026,275,1986,8,8,Questionnaire or survey study,Cardiovascular medicine
+42208866,2026,262,1997,4,4,Cohort study,Cardiovascular medicine
+41877050,2026,283,2059,9,9,Cross-sectional study,Respiratory medicine
+42128499,2026,353,2397,9,8,Randomized controlled trial,Infectious diseases
+41955912,2026,319,2289,4,4,Other or unspecified design,Pediatrics and neonatology
+42025782,2026,496,3374,23,22,Cohort study,Cardiovascular medicine
+42206575,2026,271,2033,7,6,Other or unspecified design,Cardiovascular medicine
+41933975,2026,266,1789,19,19,Cohort study,Endocrinology and metabolism
+42170723,2026,206,1412,4,4,Other or unspecified design,Cardiovascular medicine

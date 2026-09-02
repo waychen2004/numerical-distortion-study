@@ -1,0 +1,30 @@
+{
+  "documents": 2000,
+  "unique_pmids": 2000,
+  "eligibility_rule": ">=3 target numerical mentions",
+  "sampling": "Deterministic year-stratified sample from PubMed candidate abstracts.",
+  "seed": 20260817,
+  "year_counts": {
+    "2006": 101,
+    "2007": 97,
+    "2008": 96,
+    "2009": 96,
+    "2010": 100,
+    "2011": 97,
+    "2012": 94,
+    "2013": 94,
+    "2014": 95,
+    "2015": 95,
+    "2016": 96,
+    "2017": 95,
+    "2018": 93,
+    "2019": 94,
+    "2020": 96,
+    "2021": 95,
+    "2022": 93,
+    "2023": 93,
+    "2024": 96,
+    "2025": 88,
+    "2026": 96
+  }
+}

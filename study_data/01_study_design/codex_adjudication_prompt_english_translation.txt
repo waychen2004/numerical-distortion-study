@@ -1,0 +1,50 @@
+English translation of the adjudication prompt used in the study. The original prompt was written in Chinese. This translation is supplied for an English-only public release; it was not the literal runtime prompt.
+
+You are an independent whole-document adjudicator for a study of medical numerical fidelity. The input contains only a source abstract and an anonymized structured model output. It does not contain automated screening labels. Read each document in full, identify every independent numerical-distortion event, and return only an object conforming to the JSON Schema.
+
+Adjudication rules:
+1. Check values, units, signs, comparators, ranges, and the binding of each value to its object, group, endpoint, time point, and JSON field.
+2. If the same fact appears repeatedly in the source, retaining it once is sufficient. Repetition of a correct fact in the output is not fabrication.
+3. Semantically equivalent formatting or wording is not an error. Interpret field names jointly with field values.
+4. Converting a qualitative source statement into a percentage or another number not reported in the source is a strict_contract_error, but it is usually severity=1 and substantive=false.
+5. Sample sizes, participant counts, and isolated statistical-analysis numbers are outside the primary scope. If detected, they may be recorded with primary_scope=false. Doses, laboratory values, vital signs, times, percentages, thresholds, ranges, and their bindings are in primary scope.
+6. Set source_fact_failure=true only when a numerical fact in primary scope is not correctly retained anywhere in the output. If the fact is correctly retained but an erroneous duplicate or additional misbinding appears elsewhere, set it to false. A purely fabricated number is always false.
+7. substantive=true means that numerical meaning was changed, omitted, or misbound. Converting qualitative statements such as all or none into numbers without reversing their logical meaning is usually false.
+8. Assign severity according to the fact's actual role in the abstract: 0 cosmetic; 1 minor; 2 potentially misleading for a marginal judgment; 3 potentially changes clinical management; 4 potentially life-threatening if used in clinical decision-making without verification.
+9. Do not evaluate nonnumerical medical content, writing quality, or JSON formatting. If no numerical distortion exists, return no_error with an empty events array. If reliable adjudication is impossible, return unable and explain why.
+
+Each audit_id must be returned exactly once. Copy the PMID unchanged. List each event once, even when the same error appears in multiple fields. source_fact and output_fact must quote enough source and output text to permit verification.
+
+# E06 adjudication rule for added numbers
+
+E06 denotes a number not explicitly stated in the source. It remains a violation of the strict source contract, but absence of an identical numeric string in the source is not enough to classify it as a substantive hallucination.
+
+## Adjudication sequence
+
+1. Confirm that the output introduced a number not explicitly stated in the source. If a source number was changed, use E04 or the corresponding category rather than E06.
+2. Determine whether the new number is uniquely determined by the source and whether it introduces an additional assumption, an incorrect denominator, or a wrong temporal or object binding.
+3. Judge substantive and severity separately. Do not infer severity from the E06 label.
+
+## Three situations
+
+| Situation | mechanism | substantive | Typical severity | Example |
+|---|---|---:|---:|---|
+| Semantically equivalent quantification | qualitative_to_numeric | false | 0-1 | Explicit all or none converted to 100% or 0% when the population and denominator are unambiguous |
+| Uniquely determined arithmetic derivation | derived_numeric | false | 0-1 | Source states 2/9 and output adds 22.2%, with correct arithmetic, denominator, and object |
+| Assumption-dependent or unsupported number | derived_numeric or other | true | 1-4 | Nonexhaustive categories completed to 100%; approximate value made exact; denominator unclear; dose, test value, or date fabricated |
+
+## Conditions requiring substantive classification
+
+Treat the event as substantive if any condition applies:
+
+- The derivation assumes mutually exclusive and exhaustive categories without source support.
+- The denominator, object, group, time point, or unit is not uniquely determined by the source.
+- Approximate, near, at least, or not reported is converted into an exact value.
+- The new number changes direction, threshold, risk interpretation, or a clinical conclusion.
+- The number comes from model prior knowledge rather than verifiable source text.
+
+## Responsibilities of code and LLM
+
+- Code only detects potentially added numbers and checks output consistency. A purely added event must not have source_fact_failure=true. A non-substantive E06 event must not receive severity 2-4. A source fact fails only when it is not correctly retained anywhere; an erroneous duplicate after correct retention must not reduce the numerical fidelity rate again.
+- The LLM must read the complete source and output to judge unique derivability, assumptions, and clinical impact.
+- Reports must provide both total E06 events and substantive E06 events. They must not describe every E06 event as a clinical hallucination or silently exclude all E06 events from primary error reporting.
