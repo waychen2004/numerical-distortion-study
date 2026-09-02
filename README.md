@@ -56,3 +56,9 @@ An NCBI API key is optional and must be supplied only through `NCBI_API_KEY`. No
 ## Publication status
 
 Repository URL, archived release DOI, authors, citation, and licences remain author decisions. Complete `LICENSE_DECISION_REQUIRED.md` before making the repository public. GitHub should be paired with an archived release such as Zenodo for a persistent DOI.
+
+## License
+
+The analysis code and scripts in this repository are released under the MIT License.
+
+Research data files, including corpus-derived files, model outputs, human review annotations, and adjudication records, are provided for reproducibility under the terms described in the repository documentation and remain subject to applicable source, platform, and institutional restrictions.
